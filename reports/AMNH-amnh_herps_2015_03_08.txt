@@ -1,0 +1,224 @@
+Report for Institution Code AMNH, Resource amnh_herps
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 238
+Number of records retrieved in searches: 3234
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 4
+	Country: Belgium ; Times: 2
+	Country: Brazil ; Times: 6
+	Country: France ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 54
+	Country: Panama ; Times: 1
+	Country: Russia ; Times: 59
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Switzerland ; Times: 4
+	Country: United Kingdom ; Times: 19
+	Country: United States ; Times: 78
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-22 ; Times: 5
+	Date: 2015-02-23 ; Times: 19
+	Date: 2015-02-24 ; Times: 114
+	Date: 2015-02-25 ; Times: 27
+	Date: 2015-02-26 ; Times: 26
+	Date: 2015-02-27 ; Times: 17
+	Date: 2015-02-28 ; Times: 30
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Papua New Guinea" genus:Oxyuranus" ; Times: 1
+	Query: "hypsiboas cinerascens" ; Times: 4
+	Query: "nyctixalus" ; Times: 3
+	Query: "Bothrops ammodytoides" ; Times: 4
+	Query: "lampropeltis triangulum stateprovince:"tamaulipas"" ; Times: 1
+	Query: "diaphorolepis" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Bothrochilus" ; Times: 1
+	Query: "Leptodeira splendida ephippiata" ; Times: 1
+	Query: "arizona elegans AND hidalgo county AND new mexico" ; Times: 1
+	Query: "Incilius bocourti" ; Times: 6
+	Query: "country:"papua new guinea" genus:liasis" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "sceloporus aeneus stateprovince:"michoacan"" ; Times: 1
+	Query: "catalognumber:19445 institutioncode:AMNH" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Leiopython" ; Times: 1
+	Query: "Dendropsophus microcephalus stateprovince:"Chiapas" country:"Mexico"" ; Times: 1
+	Query: "country:"papua new guinea" genus:bothrochilus" ; Times: 1
+	Query: "Imantodes gemmistratus" ; Times: 1
+	Query: "Leptopelis flavomaculatus" ; Times: 1
+	Query: "Geoemyda japonica" ; Times: 1
+	Query: "geophis pyburni" ; Times: 1
+	Query: "zygaspis quadrifrons" ; Times: 1
+	Query: "Pituophis ruthveni" ; Times: 2
+	Query: "Chioglossa lusitanica" ; Times: 2
+	Query: "Arthrosaura" ; Times: 1
+	Query: "Anolis chloris" ; Times: 1
+	Query: "paramesotriton" ; Times: 2
+	Query: "rhacophorus hoanglienensis" ; Times: 1
+	Query: "garridoi" ; Times: 1
+	Query: "Incilius canaliferus" ; Times: 7
+	Query: "country:"Papua New Guinea" genus:Tropidonophis" ; Times: 1
+	Query: "Morelia boeleni" ; Times: 7
+	Query: "Incilius luetkenii" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Rhinoclemmys nasuta" ; Times: 1
+	Query: "Micrurus tissue:1" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Acrochordus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bothrops" ; Times: 1
+	Query: "Imantodes gemmistratus stateprovince:"Chiapas" country:"Mexico"" ; Times: 5
+	Query: "Gerrhosauridae tissue:1" ; Times: 1
+	Query: "Arthrosaura reticulata tissue:1" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Apodora" ; Times: 1
+	Query: "Regina rigida stateprovince:"Florida"" ; Times: 1
+	Query: "Pseustes poecilonotus" ; Times: 1
+	Query: "Chelydra rossignonii" ; Times: 2
+	Query: "Rhinella marina stateprovince:"Chiapas" country:"Mexico"" ; Times: 1
+	Query: "Plectrohyla acanthodes stateprovince:"Chiapas" country:"Mexico"" ; Times: 1
+	Query: "amnh 153945" ; Times: 2
+	Query: "country:"Chad" class:Reptilia" ; Times: 1
+	Query: "Incilius macrocristatus" ; Times: 6
+	Query: "Lamprophiidae tissue:1" ; Times: 1
+	Query: "Incilius perplexus" ; Times: 1
+	Query: "Hyla walkeri stateprovince:"Chiapas" country:"Mexico"" ; Times: 2
+	Query: "country:"mexico" specificepithet:brevifacies genus:dipsas" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Dendrelaphis" ; Times: 1
+	Query: "rhinocheilus lecontei AND hidalgo county AND new mexico" ; Times: 1
+	Query: "Pristimantis trachyblepharis" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Micropechis" ; Times: 1
+	Query: "leptodactylus pustulatus" ; Times: 2
+	Query: "Kinixys nogueyi" ; Times: 1
+	Query: "Tantilla atriceps" ; Times: 2
+	Query: "country:"Papua New Guinea" genus:Acanthophis" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 3
+	Query: "Cercosaura ocellata tissue:1" ; Times: 1
+	Query: "typhlacontias" ; Times: 1
+	Query: "sibon dimidiata" ; Times: 1
+	Query: "Sphenomorphus maculatus tissue:1" ; Times: 1
+	Query: "Phrynosoma asio" ; Times: 1
+	Query: "anelytropsis" ; Times: 1
+	Query: "Mastigodryas melanolomus stateprovince:"Quintana Roo" country:"Mexico"" ; Times: 1
+	Query: "typhlops tissue:1" ; Times: 1
+	Query: "crotalus horridus pennsylvania" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Boiga" ; Times: 2
+	Query: "Incilius marmoreus" ; Times: 4
+	Query: "rhacophorus orlovi" ; Times: 57
+	Query: "country:"papua new guinea" genus:aspidomorphus" ; Times: 1
+	Query: "apostolepis" ; Times: 1
+	Query: "stateprovince:"New Mexico" specificepithet:lepidus klauberi genus:Crotalus" ; Times: 2
+	Query: "Leptodeira splendida" ; Times: 1
+	Query: "Oxyrhopus melanogenys" ; Times: 2
+	Query: "Crotalus willardi Hidalgo" ; Times: 1
+	Query: "liophis tissue:1" ; Times: 1
+	Query: "Incilius coccifer" ; Times: 1
+	Query: "country:"papua new guinea" genus:leiopython" ; Times: 1
+	Query: "regina tissue:1" ; Times: 1
+	Query: "Candoia aspera country:"Papua New Guinea"" ; Times: 1
+	Query: "sistrurus miliarius streckeri" ; Times: 1
+	Query: "Cuora evelynae" ; Times: 1
+	Query: "Incilius tacanensis" ; Times: 1
+	Query: "yuwonoi" ; Times: 1
+	Query: "country:"Honduras" specificepithet:scorpioides genus:Kinosternon" ; Times: 1
+	Query: "country:"Papua New Guinea" genus:Candoia" ; Times: 1
+	Query: "lycodonomorphus" ; Times: 1
+	Query: "Hyperolius mitchelli" ; Times: 2
+	Query: "Arthrosaura tissue:1" ; Times: 1
+	Query: "yniphora" ; Times: 1
+	Query: "Gymnophthalmidae tissue:1" ; Times: 2
+	Query: "rhacophorus annamensis" ; Times: 1
+	Query: "Hyperolius rubrovermiculatus" ; Times: 1
+	Query: "country:"Panama" specificepithet:scorpioides genus:Kinosternon" ; Times: 2
+	Query: "Deirochelys stateprovince:"Louisiana"" ; Times: 3
+	Query: "anolis isolepis" ; Times: 1
+	Query: "country:"Colombia" specificepithet:scorpioides genus:Kinosternon" ; Times: 2
+	Query: "Bothrolycus" ; Times: 1
+	Query: "Eleutherodactylus pipilans stateprovince:"Chiapas" country:"Mexico"" ; Times: 1
+	Query: "synophis" ; Times: 1
+	Query: "country:"Panama" genus:Pseudoboa" ; Times: 1
+	Query: "dipsas gaigeae" ; Times: 1
+	Query: "Manolepis putnami stateprovince:Oaxaca" ; Times: 1
+	Query: "Incilius campbelli" ; Times: 1
+	Query: "hydrelaps" ; Times: 1
+	Query: "mexico specificepithet:mexicana genus:salvadora" ; Times: 1
+	Query: "mertoni" ; Times: 1
+	Query: "country:"papua new guinea" genus:dendrelaphis" ; Times: 2
+	Query: "Alopoglossus tissue:1" ; Times: 1
+	Query: "Corytophanes cristatus country:Mexico" ; Times: 1
+	Query: "Leptodeira splendida bressoni" ; Times: 1
+	Query: "Imantodes cenchoa Mexico" ; Times: 2
+	Query: "leptotyphlops tissue:1" ; Times: 1
+	Query: "Rhoptropus afer" ; Times: 1
+	Query: "Crotalus aquilus" ; Times: 3
+	Query: "Lissotriton" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 326 download events in this period)
+Total number of records downloaded: 29791 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 29769
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-23 ; Times: 5
+	Date: 2015-02-24 ; Times: 4
+	Date: 2015-02-25 ; Times: 6
+	Date: 2015-02-26 ; Times: 2
+	Date: 2015-02-27 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Peru"" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "country:"Sudan" class:Reptilia" ; Times: 1
+	Query: "Crotalus aquilus" ; Times: 1
+	Query: "paramesotriton" ; Times: 1
+	Query: "jamaica institutioncode:amnh" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "Xantusia arizonae" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Ambystoma country:"mexico"" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Nerodia sipedon" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 238
+Total number of records retrieved from searches: 3234
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 29791
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 238
+Total number of records retrieved from searches: 3234
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 29791
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
