@@ -1,0 +1,807 @@
+Report for Institution Code AMNH, Resource amnh_herps
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 858
+Number of records retrieved in searches: 9710
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 12
+	Country: Australia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 54
+	Country: Chile ; Times: 17
+	Country: Colombia ; Times: 18
+	Country: Costa Rica ; Times: 1
+	Country: Dominican Republic ; Times: 2
+	Country: Germany ; Times: 13
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 83
+	Country: Micronesia ; Times: 1
+	Country: Panama ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Sweden ; Times: 46
+	Country: Switzerland ; Times: 1
+	Country: United Kingdom ; Times: 15
+	Country: United States ; Times: 571
+	Country: Unknown ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 16
+	Date: 2015-05-06 ; Times: 33
+	Date: 2015-05-07 ; Times: 30
+	Date: 2015-05-08 ; Times: 37
+	Date: 2015-05-09 ; Times: 5
+	Date: 2015-05-10 ; Times: 19
+	Date: 2015-05-11 ; Times: 26
+	Date: 2015-05-12 ; Times: 32
+	Date: 2015-05-13 ; Times: 12
+	Date: 2015-05-14 ; Times: 15
+	Date: 2015-05-15 ; Times: 22
+	Date: 2015-05-16 ; Times: 50
+	Date: 2015-05-17 ; Times: 42
+	Date: 2015-05-18 ; Times: 29
+	Date: 2015-05-19 ; Times: 76
+	Date: 2015-05-20 ; Times: 49
+	Date: 2015-05-21 ; Times: 46
+	Date: 2015-05-22 ; Times: 35
+	Date: 2015-05-23 ; Times: 99
+	Date: 2015-05-24 ; Times: 11
+	Date: 2015-05-25 ; Times: 28
+	Date: 2015-05-26 ; Times: 34
+	Date: 2015-05-27 ; Times: 36
+	Date: 2015-05-28 ; Times: 23
+	Date: 2015-05-29 ; Times: 33
+	Date: 2015-05-30 ; Times: 4
+	Date: 2015-05-31 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "leptophis sonora" ; Times: 1
+	Query: "micrurus dumerilii transandinus" ; Times: 1
+	Query: "specificepithet:lentiginosum genus:Rhinobothryum" ; Times: 2
+	Query: "pulchra warren" ; Times: 1
+	Query: "Eumeces indubitus" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis AND (NOT mexico)" ; Times: 1
+	Query: "country:"Colombia" specificepithet:mentovarius genus:Masticophis" ; Times: 2
+	Query: "stateprovince:"Santander" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "Craugastor emcelae" ; Times: 3
+	Query: "terrapene carolina tissue:1" ; Times: 1
+	Query: "119603" ; Times: 2
+	Query: "119602" ; Times: 1
+	Query: "Hydromantes shastae" ; Times: 3
+	Query: "sphenocephalus county:"Kendall" stateprovince:"Texas"" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "country:"Nicaragua" genus:Phyllodactylus" ; Times: 2
+	Query: "phrynosoma guerrero" ; Times: 1
+	Query: "country:"Peru" genus:Tantilla" ; Times: 1
+	Query: "subocularis stateprovince:"coahuila"" ; Times: 1
+	Query: "Thamnophis sirtalis idaho" ; Times: 2
+	Query: "RAMPHOTYPHLOPS BRAMINUS country:"mexico"" ; Times: 2
+	Query: "Homoroselaps" ; Times: 3
+	Query: "country:"Venezuela" specificepithet:mentovarius genus:Masticophis" ; Times: 2
+	Query: "country:"Nicaragua" specificepithet:variabilis genus:Sceloporus AND (NOT KU)" ; Times: 1
+	Query: "genus:Synophis" ; Times: 2
+	Query: "(Vipera kaznakovi)" ; Times: 1
+	Query: "san carlos costa rica amphibia" ; Times: 1
+	Query: "country:"Nicaragua" genus:Sphenomorphus" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia institutioncode:AMNH" ; Times: 9
+	Query: "country:"Ecuador" genus:Tripanurgos" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Reptilia" ; Times: 2
+	Query: "country:"Argentina" class:reptilia tissue:1" ; Times: 1
+	Query: "country:"Uzbekistan" genus:Echis" ; Times: 3
+	Query: "emydoidea illinois" ; Times: 1
+	Query: "graptemys stateprovince:"Texas"" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus" ; Times: 1
+	Query: "exerodonta pinorum" ; Times: 1
+	Query: "country:"Trinidad" genus:Tripanurgos" ; Times: 1
+	Query: "heloderma oaxaca" ; Times: 3
+	Query: "catalognumber:160269 institutioncode:AMNH" ; Times: 2
+	Query: "country:"Mexico" specificepithet:polystictus genus:Crotalus" ; Times: 1
+	Query: "country:"Nicaragua" genus:Lepidophyma AND (NOT KU)" ; Times: 1
+	Query: "Exerodonta melanomma" ; Times: 3
+	Query: "AMNH 143299" ; Times: 2
+	Query: "county:"brewster" stateprovince:"Texas" country:"United States" genus:lampropeltis" ; Times: 1
+	Query: "emydoidea indiana" ; Times: 1
+	Query: "188298 institutioncode:amnh" ; Times: 4
+	Query: "hypsiboas picturatus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:intermedius genus:Crotalus" ; Times: 1
+	Query: "genus:Saphenophis" ; Times: 1
+	Query: "manouria emys emys" ; Times: 1
+	Query: ""Gastrophryne olivacea" county:"Comal" stateprovince:"Texas"" ; Times: 2
+	Query: "Pituophis catenifer Kansas" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:melanocephala genus:Tantilla" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla institutioncode:AMNH" ; Times: 1
+	Query: "terrapene tissue:1" ; Times: 2
+	Query: "thamnophis atratus contra costa" ; Times: 1
+	Query: "pituophis catenifer idaho" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla institutioncode:AMNH" ; Times: 1
+	Query: "" claudiae"" ; Times: 2
+	Query: "institutioncode:AMNH (Trimeresurus popeorum)" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:armillata genus:Tantilla" ; Times: 2
+	Query: "elseya tissue:1" ; Times: 1
+	Query: "institutioncode:AMNH (Bothrops erythromelas)" ; Times: 1
+	Query: "Phaeognathus hubrichti" ; Times: 1
+	Query: "Crotalus aquilus country:"mexico"" ; Times: 1
+	Query: "stateprovince:"Narino" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "country:"Panama" genus:Rhadinaea" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "masticophis idaho" ; Times: 1
+	Query: "country:"Nicaragua" genus:Rhadinaea" ; Times: 1
+	Query: "Gastrotheca cornuta" ; Times: 1
+	Query: "country:"Panama" specificepithet:depressirostris genus:Leptophis" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:pliolepis genus:Trimetopon" ; Times: 1
+	Query: "teratoscincus microlepis" ; Times: 1
+	Query: "specificepithet:hechti genus:Aristelliger" ; Times: 1
+	Query: "Lithobates type:specimen country:"Brazil"" ; Times: 2
+	Query: "eunectes murinus" ; Times: 2
+	Query: ""sphenocephalus" county:"Kendall" stateprovince:"Texas"" ; Times: 1
+	Query: "Pituophis catenifer idaho" ; Times: 1
+	Query: "Craugastor berkenbuschii" ; Times: 4
+	Query: "country:"Panama" specificepithet:barbouri genus:Trimetopon" ; Times: 1
+	Query: "Truk Reptiles" ; Times: 1
+	Query: "Leptodactylus stateprovince:"Texas"" ; Times: 4
+	Query: "country:"Panama" specificepithet:articulata genus:Dipsas" ; Times: 1
+	Query: "Lithobates berlandieri (Arizona)" ; Times: 1
+	Query: "hypsiboas sibleszi" ; Times: 1
+	Query: "dalophia ellenbergeri" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 2
+	Query: "Leptotyphlops New Mexico" ; Times: 4
+	Query: "AMNH 124468" ; Times: 1
+	Query: "Craugastor alfredi" ; Times: 1
+	Query: "Drymarchon melanurus country:"mexico"" ; Times: 1
+	Query: "Thamnophis elegans idaho" ; Times: 2
+	Query: "country:"Afghanistan" genus:Echis" ; Times: 5
+	Query: "Lampropeltis zonata multifasciata" ; Times: 1
+	Query: "AMNH 93593" ; Times: 2
+	Query: "country:"Nicaragua" specificepithet:leucostomum genus:Kinosternon AND (NOT KU)" ; Times: 1
+	Query: "crotaphytus nebrius pima county" ; Times: 1
+	Query: "country:"Colombia" specificepithet:melanocephala genus:Tantilla" ; Times: 4
+	Query: "country:"Costa Rica" genus:Rhinobothryum" ; Times: 1
+	Query: "Lichanura" ; Times: 6
+	Query: "agkistrodon stateprovince:"maryland"" ; Times: 3
+	Query: "blaesodactylus boivini" ; Times: 1
+	Query: "AMNH 95497" ; Times: 1
+	Query: "AMNH 95498" ; Times: 1
+	Query: "klauberi county:"San Bernardino"" ; Times: 3
+	Query: "trimeresurus trigonocephalus" ; Times: 6
+	Query: "country:"Nicaragua" genus:Thecadactylus" ; Times: 1
+	Query: "AMNH 138468" ; Times: 2
+	Query: "AMNH 110472" ; Times: 2
+	Query: "phrynosoma hernandesi country:"mexico"" ; Times: 1
+	Query: "anolis casildae" ; Times: 2
+	Query: "AMNH 38097" ; Times: 1
+	Query: "Eleutherodactylus leprus" ; Times: 1
+	Query: "Tantilla yaquia" ; Times: 1
+	Query: "specificepithet:vermiculaticeps genus:Rhadinaea" ; Times: 20
+	Query: "genus:cordylus institutioncode:AMNH" ; Times: 2
+	Query: "elapoides type:specimen country:"solomon"" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Pristidactylus" ; Times: 1
+	Query: "subocularis stateprovince:"Coahuila"" ; Times: 2
+	Query: "atractaspis" ; Times: 1
+	Query: "country:"Colombia" genus:Lachesis" ; Times: 2
+	Query: "Uma notata county:"Imperial"" ; Times: 2
+	Query: "catalognumber:92555" ; Times: 1
+	Query: "county:"Kerr" stateprovince:"Texas" country:"United States" genus:lampropeltis" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 2
+	Query: "county:"jeff davis" stateprovince:"texas" country:"United States" specificepithet:bairdi" ; Times: 1
+	Query: "Masticophis taeniatus idaho" ; Times: 2
+	Query: "Anaxyrus boreas idaho" ; Times: 4
+	Query: "Plectrohyla hazelae" ; Times: 3
+	Query: "specificepithet:melanocephala genus:Tantilla" ; Times: 9
+	Query: "thamnophis sirtalis idaho" ; Times: 3
+	Query: "Uracentron" ; Times: 3
+	Query: "188298" ; Times: 1
+	Query: "monopeltis guentheri" ; Times: 1
+	Query: "catalognumber:115065 institutioncode:AMNH" ; Times: 1
+	Query: "phrynosoma hernandesi otero county" ; Times: 1
+	Query: "Phrynosoma hernandesi country:"Mexico"" ; Times: 1
+	Query: "tachymenis peruviana" ; Times: 1
+	Query: "AMNH 78643" ; Times: 1
+	Query: "AMNH 12703" ; Times: 2
+	Query: "country:"Ecuador" genus:Saphenophis" ; Times: 1
+	Query: "AMNH 12704" ; Times: 1
+	Query: "specificepithet:armillata genus:Tantilla institutioncode:AMNH" ; Times: 1
+	Query: "stateprovince:"Norte de Santander" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "county:"brewster" stateprovince:"texas" country:"United States" specificepithet:bairdi" ; Times: 1
+	Query: "type:specimen (Trimeresurus medoensis)" ; Times: 1
+	Query: "Phrynosoma hernandesi country:"mexico"" ; Times: 1
+	Query: "county:"upton" stateprovince:"Texas" country:"United States" genus:crotalus" ; Times: 1
+	Query: "country:"Nicaragua" genus:Mabuya" ; Times: 3
+	Query: "amphisbaena gonavensis" ; Times: 2
+	Query: "country:"Nicaragua" genus:Corytophanes" ; Times: 1
+	Query: "county:"Mason" stateprovince:"Washington" genus:ambystoma class:Amphibia" ; Times: 2
+	Query: "aspidoscelis xanthonota" ; Times: 4
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "specificepithet:barbouri genus:Aristelliger" ; Times: 1
+	Query: "country:"Panama" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "Viperidae type:specimen institutioncode:AMNH" ; Times: 4
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "leptopelis macrotis" ; Times: 2
+	Query: "country:"Turkmenistan" genus:Echis" ; Times: 13
+	Query: "country:"Guyana" genus:Tripanurgos" ; Times: 1
+	Query: "cryptobranchus new york" ; Times: 1
+	Query: "catalognumber:99842 institutioncode:AMNH" ; Times: 2
+	Query: "Chirindia rondoensis" ; Times: 1
+	Query: "Trachycephalus coriaceus" ; Times: 5
+	Query: "Lampropeltis stateprovince:"Zacatecas"" ; Times: 1
+	Query: "specificepithet:barbouri genus:Aristelliger institutioncode:AMNH" ; Times: 2
+	Query: "country:"Colombia" specificepithet:melanocephala genus:Tantilla institutioncode:AMNH" ; Times: 1
+	Query: "Duellmanohyla ignicolor" ; Times: 5
+	Query: "specificepithet:lacerata genus:Holbrookia" ; Times: 1
+	Query: "specificepithet:lippiens genus:Sympholis" ; Times: 2
+	Query: "thamnophis sirtalis wyoming" ; Times: 1
+	Query: ""Thamnophis sirtalis" (Alabama)" ; Times: 1
+	Query: "Pseudocalotes" ; Times: 1
+	Query: "specificepithet:decipiens genus:Rhadinaea" ; Times: 1
+	Query: "Eleutherodactylus verrucipes" ; Times: 1
+	Query: "stateprovince:"oaxaca" country:"mexico" specificepithet:basiliscus genus:Crotalus" ; Times: 1
+	Query: "sphaerodactylus cochranae" ; Times: 1
+	Query: "stateprovince:"Chontales" country:"Nicaragua" specificepithet:septentrionalis genus:Leptodeira AND (NOT KU)" ; Times: 1
+	Query: "country:"angola" genus:Cordylus" ; Times: 1
+	Query: "epicrates maurus" ; Times: 1
+	Query: "elapsoides Virginia" ; Times: 12
+	Query: "Spea intermontana idaho" ; Times: 3
+	Query: "AMNH 64026" ; Times: 1
+	Query: "catalognumber:145918 institutioncode:AMNH" ; Times: 2
+	Query: "chelidae tissue:1" ; Times: 1
+	Query: "indiana clemmys guttata" ; Times: 1
+	Query: "copiula tyleri" ; Times: 1
+	Query: "Chersodromus liebmanni" ; Times: 1
+	Query: "country:"Colombia" genus:Saphenophis" ; Times: 1
+	Query: "58062" ; Times: 1
+	Query: "country:"Honduras" specificepithet:melanocephala genus:Tantilla" ; Times: 2
+	Query: "AMNH 73094" ; Times: 2
+	Query: "stateprovince:"sonora" country:"mexico" specificepithet:basiliscus genus:Crotalus" ; Times: 1
+	Query: "institutioncode:AMNH (Crotalus triseriatus)" ; Times: 2
+	Query: "euleptes institutioncode:amnh" ; Times: 1
+	Query: "amphisbaena ANGUSTIFRONS" ; Times: 1
+	Query: "country:"Colombia" genus:Tripanurgos" ; Times: 1
+	Query: "Ramphotyphlops braminus country:"Mexico"" ; Times: 1
+	Query: "genus:Relictivomer" ; Times: 1
+	Query: "country:"Peru" specificepithet:melanocephala genus:Tantilla" ; Times: 2
+	Query: "Agkistrodon himalayanus" ; Times: 4
+	Query: "albericus fafniri" ; Times: 1
+	Query: "tantilla jalisco" ; Times: 1
+	Query: "Vipera lebetina" ; Times: 2
+	Query: "atractus albuquerquei" ; Times: 1
+	Query: "AMNH 56035" ; Times: 2
+	Query: "Geagras redimitus" ; Times: 1
+	Query: "county:"Kerr" stateprovince:"Texas" country:"United States" genus:agkistrodon" ; Times: 1
+	Query: "Storeria dekayi Wisconsin" ; Times: 1
+	Query: "country:"Pakistan" genus:Echis" ; Times: 15
+	Query: "eumeces schwartzei" ; Times: 17
+	Query: "AMNH 114754" ; Times: 2
+	Query: "agalychnis annae" ; Times: 1
+	Query: "AMNH 104616" ; Times: 2
+	Query: "specificepithet:hechti genus:Aristelliger institutioncode:AMNH" ; Times: 1
+	Query: "county:"terrell" stateprovince:"Texas" country:"United States" genus:crotalus" ; Times: 1
+	Query: "genus:Xenopholis" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:squamosus genus:Sceloporus AND (NOT KU)" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:articulata genus:Dipsas" ; Times: 1
+	Query: "anaxyrus boreas idaho" ; Times: 2
+	Query: ""Phyllobates lugubris"" ; Times: 1
+	Query: "ecnomiohyla miliaria" ; Times: 1
+	Query: "anolis ibanezi" ; Times: 5
+	Query: "stateprovince:"Pennsylvania" genus:Cryptobranchus" ; Times: 2
+	Query: "catalognumber:115064 institutioncode:AMNH" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:vittatus genus:BAsiliscus" ; Times: 2
+	Query: "masticophis taeniatus idaho" ; Times: 1
+	Query: "Rhinocheilus county:"Riverside" stateprovince:"California"" ; Times: 1
+	Query: "poyntonophrynus" ; Times: 1
+	Query: "stateprovince:"Chontales" country:"Nicaragua" class:Reptilia AND (NOT KU)" ; Times: 2
+	Query: "institutioncode:AMNH (Trimeresurus gramineus)" ; Times: 2
+	Query: "country:"Nicaragua" genus:Gymnophthalmus AND (NOT KU)" ; Times: 1
+	Query: "Uracentron azureum" ; Times: 1
+	Query: "isthmohyla debilis" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" genus:Loxocemus" ; Times: 1
+	Query: "DALOPHIA LONGICAUDA" ; Times: 1
+	Query: "amphisbaena bassleri" ; Times: 1
+	Query: "catalognumber:163573 institutioncode:amnh" ; Times: 2
+	Query: "(Trimeresurus gramineus)" ; Times: 3
+	Query: "stateprovince:"nevada" genus:sauromalus" ; Times: 2
+	Query: "genus:Tripanurgos" ; Times: 1
+	Query: "184488 reptile" ; Times: 3
+	Query: "Lithobates montezumae country:"mexico"" ; Times: 1
+	Query: "country:"Colombia" genus:Coniophanes" ; Times: 1
+	Query: "Agkistrodon contortrix stateprovince:"Tennessee"" ; Times: 2
+	Query: "Craugastor monnichorum" ; Times: 2
+	Query: "genus:Rhinobothryum" ; Times: 1
+	Query: "type:specimen institutioncode:AMNH (Trimeresurus gramineus)" ; Times: 1
+	Query: "country:"Costa Rica" genus:Dipsas" ; Times: 1
+	Query: "palea steindachneri" ; Times: 1
+	Query: "clemmys illinois" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "spea intermontana idaho" ; Times: 4
+	Query: "stateprovince:"new mexico" specificepithet:brevis genus:Coleonyx" ; Times: 1
+	Query: "54847" ; Times: 1
+	Query: "Charadrahyla nephila" ; Times: 3
+	Query: "imantodes sonora" ; Times: 2
+	Query: "Podarcis lilfordi" ; Times: 1
+	Query: "crotalus culminatus" ; Times: 1
+	Query: "AMNH 97011" ; Times: 1
+	Query: "institutioncode:AMNH (Trimeresurus monticola)" ; Times: 1
+	Query: "R 184443" ; Times: 1
+	Query: "atheris hispida" ; Times: 5
+	Query: "monopeltis luandae" ; Times: 1
+	Query: "lampropeltis triangulum annulata" ; Times: 1
+	Query: "AMNH 96981" ; Times: 2
+	Query: "AMNH 96983" ; Times: 1
+	Query: "country:"Panama" specificepithet:dissoleucus genus:Micrurus" ; Times: 1
+	Query: "county:"eddy" stateprovince:"new mexico" specificepithet:brevis genus:Coleonyx" ; Times: 1
+	Query: "country:"Panama" specificepithet:lineatus genus:Liophis" ; Times: 3
+	Query: "country:"Nicaragua" genus:Gymnophthalmus" ; Times: 2
+	Query: "country:"Brazil" genus:Tripanurgos" ; Times: 1
+	Query: "catalognumber:160970" ; Times: 1
+	Query: "stateprovince:"Atlantico" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "Exerodonta sumichrasti" ; Times: 1
+	Query: "AMNH 95443" ; Times: 1
+	Query: "Leptotyphlops dulcis New Mexico" ; Times: 2
+	Query: "country:"Colombia" genus:Masticophis" ; Times: 2
+	Query: "stateprovince:"Manabi" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "Desmognathus marmoratus hastypestatus:1" ; Times: 2
+	Query: "stateprovince:"Kansas" specificepithet:catenifer genus:Pituophis" ; Times: 1
+	Query: "Trachemys ornata" ; Times: 5
+	Query: "Sphaerodactylus country:"Nicaragua" specificepithet:millepunctatus genus:Sphaerodactylus" ; Times: 1
+	Query: "caiman crocodilus fuscus" ; Times: 2
+	Query: "AMNH 66798" ; Times: 3
+	Query: "Atelopus elegans" ; Times: 2
+	Query: "Tantilla tissue:1" ; Times: 2
+	Query: "Ecnomiohyla miotympanum" ; Times: 2
+	Query: "country:"Nicaragua" genus:Coniophanes" ; Times: 1
+	Query: "anolis chocorum" ; Times: 3
+	Query: "amnh 161714" ; Times: 1
+	Query: "Leiocephalus stictigaster" ; Times: 2
+	Query: "catalognumber:168433 institutioncode:amnh" ; Times: 1
+	Query: "stateprovince:"Boyaca" country:"Colombia" class:Reptilia" ; Times: 3
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "stateprovince:"sinaloa" country:"mexico" specificepithet:basiliscus genus:Crotalus" ; Times: 1
+	Query: "discoglossus france" ; Times: 1
+	Query: "specificepithet:bogertorum genus:Rhadinaea" ; Times: 1
+	Query: "AMNH 182718" ; Times: 1
+	Query: "specificepithet:dumerilii genus:Rhadinaea" ; Times: 1
+	Query: "type:specimen specificepithet:barbouri genus:Aristelliger institutioncode:AMNH" ; Times: 1
+	Query: "country:"Colombia" genus:Rhadinaea" ; Times: 1
+	Query: "kinosternon scorpioides tissue:1" ; Times: 1
+	Query: "incilius alvarius" ; Times: 2
+	Query: "sceloporus goldmani" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla" ; Times: 3
+	Query: "gerrhonotus stateprovince:"texas"" ; Times: 4
+	Query: "country:"Costa Rica" specificepithet:ruficeps genus:Tantilla" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia" ; Times: 9
+	Query: "ramphotyphlops braminus country:"mexico"" ; Times: 1
+	Query: "seminatrix pygaea stateprovince:"north carolina"" ; Times: 2
+	Query: ""Rhinocheilus" county:"Comal" stateprovince:"Texas"" ; Times: 1
+	Query: "88511" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:festiva genus:Ameiva AND (NOT KU)" ; Times: 3
+	Query: "specificepithet:armillata genus:Tantilla" ; Times: 3
+	Query: "AMNH 71471" ; Times: 1
+	Query: "country:"Guatemala" specificepithet:melanocephala genus:Tantilla" ; Times: 2
+	Query: "stateprovince:"Cesar" country:"Colombia" class:Reptilia" ; Times: 3
+	Query: "catalognumber:47301 institutioncode:AMNH" ; Times: 1
+	Query: "pseudemys tissue:1" ; Times: 1
+	Query: "coleonyx fasciatus" ; Times: 1
+	Query: "quedenfeldtia" ; Times: 2
+	Query: "catalognumber:R.100005 institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:articulata genus:Dipsas" ; Times: 7
+	Query: "chelydra acutirostris" ; Times: 2
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "stateprovince:"colima" country:"mexico" specificepithet:basiliscus genus:Crotalus" ; Times: 1
+	Query: "stateprovince:"nayarit" country:"mexico" specificepithet:basiliscus genus:Crotalus" ; Times: 1
+	Query: "pseudoeurycea altamontana" ; Times: 1
+	Query: "Phrynosoma cornutum Durango" ; Times: 1
+	Query: "AMNH 49701" ; Times: 1
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "genus:Cordylus institutioncode:AMNH" ; Times: 1
+	Query: "henshawi county:"Riverside" class:reptilia" ; Times: 2
+	Query: "specificepithet:myersi genus:Rhadinaea" ; Times: 1
+	Query: "specificepithet:xeros institutioncode:amnh" ; Times: 1
+	Query: "stateprovince:"New Mexico" specificepithet:variegatus genus:Coleonyx" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "country:"Costa Rica" genus:Lachesis" ; Times: 1
+	Query: ""Ranitomeya claudiae"" ; Times: 2
+	Query: "boa constrictor sonora" ; Times: 1
+	Query: "xanthonota arizona" ; Times: 5
+	Query: "podocnemis unifilis" ; Times: 2
+	Query: "country:"Nicaragua" specificepithet:capito genus:Anolis" ; Times: 1
+	Query: "plectrohyla hazelae" ; Times: 1
+	Query: "catalognumber:174015 institutioncode:AMNH" ; Times: 1
+	Query: "stateprovince:"Bolivar" country:"Colombia" class:Reptilia" ; Times: 4
+	Query: "169828" ; Times: 1
+	Query: "stateprovince:"Texas" country:"United States" specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "Craugastor occidentalis" ; Times: 1
+	Query: "Cyrtodactylus sermowaiensis" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "hemiphyllodactylus typus country:"philippines"" ; Times: 1
+	Query: "Phrynosoma cornutum coahuila" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Reptilia" ; Times: 1
+	Query: "AMNH 108799" ; Times: 2
+	Query: "Enhydrina" ; Times: 1
+	Query: "catalognumber:109836 institutioncode:amnh" ; Times: 1
+	Query: "Cynisca nigeriensis" ; Times: 1
+	Query: "thamnophis sirtalis nebraska" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:funerea genus:Rhinoclemmys AND (NOT KU)" ; Times: 1
+	Query: "122533" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:annulata genus:Rhinoclemmys AND (NOT KU)" ; Times: 1
+	Query: "AMNH 114752" ; Times: 1
+	Query: "r-87381" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:plumifrons genus:BAsiliscus" ; Times: 1
+	Query: "gastrotheca cornuta" ; Times: 4
+	Query: "Xantusia vigilis riverside" ; Times: 1
+	Query: "zygaspis nigra" ; Times: 1
+	Query: "county:"Kerr" stateprovince:"Texas" country:"United States" genus:crotalus" ; Times: 1
+	Query: "Lithobates montezumae" ; Times: 1
+	Query: "R-184488 reptile" ; Times: 1
+	Query: "stateprovince:"Arauca" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "Natriciteres variegata" ; Times: 1
+	Query: "specificepithet:MACULATUS class:amphibia institutioncode:AMNH" ; Times: 2
+	Query: "78732" ; Times: 1
+	Query: "Aphaniotis" ; Times: 1
+	Query: "testudo graeca" ; Times: 2
+	Query: "R-184488" ; Times: 1
+	Query: "country:"Brazil" genus:Paratelmatobius" ; Times: 1
+	Query: "103178" ; Times: 1
+	Query: "specificepithet:sargenti genus:Rhadinaea" ; Times: 3
+	Query: "indiana clemmys" ; Times: 1
+	Query: "klauberi county:"san bernardino"" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:undulata genus:Ameiva AND (NOT KU)" ; Times: 1
+	Query: "Emoia caeruleocauda Madang" ; Times: 1
+	Query: "genus:Nothopsis" ; Times: 2
+	Query: "incilius periglenes" ; Times: 2
+	Query: "country:"Ecuador" genus:Trachyboa" ; Times: 1
+	Query: "isthmohyla zeteki" ; Times: 1
+	Query: "thamnophis sirtalis dakota" ; Times: 1
+	Query: "mcallii" ; Times: 2
+	Query: "country:"Costa Rica" specificepithet:bovallii genus:Rhinobothryum" ; Times: 1
+	Query: "hydrelaps" ; Times: 1
+	Query: "Arizona elegans county:"los angeles" stateprovince:"California"" ; Times: 2
+	Query: "amphisbaena xera" ; Times: 1
+	Query: "oreophryne hypsiops" ; Times: 1
+	Query: "specificepithet:vermiculaticeps genus:Rhadinaea institutioncode:AMNH" ; Times: 1
+	Query: "country:"Panama" genus:Coniophanes" ; Times: 2
+	Query: "Lithobates berlandieri type:specimen stateprovince:"Arizona"" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "94030" ; Times: 1
+	Query: "stateprovince:"Pichincha" country:"Ecuador" genus:Saphenophis" ; Times: 1
+	Query: "AMNH 142906" ; Times: 2
+	Query: "genus:Trachyboa" ; Times: 3
+	Query: "country:"Nicaragua" specificepithet:pulcherrima genus:Rhinoclemmys AND (NOT KU)" ; Times: 1
+	Query: "Eurycea longicauda stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Crotalus mitchellii stateprovince:"Arizona" (Arizona)" ; Times: 1
+	Query: "Bothrops asper stateprovince:"Quintana Roo" country:"Mexico"" ; Times: 1
+	Query: "gyalopion canum arizona" ; Times: 1
+	Query: "micrurus dumerilii" ; Times: 2
+	Query: "Lampropeltis zonata county:"Los Angeles"" ; Times: 1
+	Query: "DALOPHIA ELLENbergeri" ; Times: 1
+	Query: "specificepithet:lentiginosum genus:Rhinobothryum institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 64478" ; Times: 1
+	Query: "Bitis nasicornis" ; Times: 2
+	Query: "Podarcis pityusensis" ; Times: 3
+	Query: "country:"Nicaragua" specificepithet:biporcatus genus:Anolis" ; Times: 1
+	Query: "AMNH 96994" ; Times: 1
+	Query: "country:"Panama" genus:Trimetopon" ; Times: 1
+	Query: "country:"mexico" specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis institutioncode:AMNH" ; Times: 1
+	Query: "Lithobates berlandieri stateprovince:"Arizona"" ; Times: 1
+	Query: "genus:crossodactylus" ; Times: 2
+	Query: "AMNH 73843" ; Times: 2
+	Query: "Sceloporus graciosus idaho" ; Times: 1
+	Query: "specificepithet:mexicana genus:Lampropeltis" ; Times: 1
+	Query: "pleurodema marmoratum" ; Times: 1
+	Query: "stateprovince:"Nayarit" country:"Mexico" genus:Loxocemus" ; Times: 1
+	Query: "specificepithet:fasciatus genus:saurodactylus" ; Times: 1
+	Query: "scinax duartei" ; Times: 3
+	Query: "pseudoeurycea nigromaculata" ; Times: 2
+	Query: "stateprovince:"Texas" country:"United States" genus:trimorphodon" ; Times: 1
+	Query: "Emoia caeruleocauda Sepik" ; Times: 1
+	Query: "Eumeces dugesii" ; Times: 4
+	Query: "country:"Panama" specificepithet:brevirostris genus:Oxybelis" ; Times: 1
+	Query: "county:"Kerr" stateprovince:"Texas" country:"United States" genus:elaphe" ; Times: 1
+	Query: "crotalus concolor" ; Times: 7
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 3
+	Query: "country:"Nicaragua" specificepithet:scripta genus:Trachemys AND (NOT KU)" ; Times: 1
+	Query: "saurodactylus fasciatus" ; Times: 2
+	Query: "country:"Nicaragua" genus:Crisantophis" ; Times: 1
+	Query: "specificepithet:sartorii genus:Tropidodipsas" ; Times: 1
+	Query: "country:"Panama" genus:Dipsas" ; Times: 1
+	Query: "stateprovince:"Grenada" country:"Nicaragua" class:Reptilia AND (NOT KU)" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" genus:Tantilla" ; Times: 1
+	Query: "Crotalus stephensi inyo" ; Times: 3
+	Query: "subocularis stateprovince:"Durango"" ; Times: 2
+	Query: "country:"Venezuela" specificepithet:lineatus genus:Liophis institutioncode:AMNH" ; Times: 1
+	Query: "ephalophis" ; Times: 1
+	Query: "75588" ; Times: 1
+	Query: "Tantilla wilcoxi arizona" ; Times: 1
+	Query: "DALOPHIA ANGOLENSIS" ; Times: 1
+	Query: "multivirgatus nebraska" ; Times: 2
+	Query: "country:"Nicaragua" genus:Leptophis" ; Times: 1
+	Query: "country:"Costa Rica" genus:Trimetopon" ; Times: 2
+	Query: "country:"Colombia" specificepithet:bovallii genus:Rhinobothryum" ; Times: 1
+	Query: "Ophiophagus hannah Philippines" ; Times: 1
+	Query: "county:"coahoma" stateprovince:"Mississippi"" ; Times: 1
+	Query: "catalognumber:38694 institutioncode:AMNH" ; Times: 1
+	Query: "coluber constrictor idaho" ; Times: 6
+	Query: "country:"Panama" genus:Lachesis" ; Times: 1
+	Query: "holaspis" ; Times: 2
+	Query: "euleptes" ; Times: 1
+	Query: "Vipera xanthina" ; Times: 2
+	Query: "Sphaerodactylus country:"Nicaragua" specificepithet:argus genus:Sphaerodactylus" ; Times: 1
+	Query: "stateprovince:"Manabi" country:"Ecuador" class:Reptilia AND (NOT lepidochelys)" ; Times: 1
+	Query: "Sphaerodactylus country:"Nicaragua" genus:Sphaerodactylus" ; Times: 1
+	Query: "stateprovince:"New Mexico" country:"United States" genus:trimorphodon" ; Times: 1
+	Query: "sphaerodactylus darlingtoni" ; Times: 1
+	Query: "country:"Nicaragua" genus:Coleonyx" ; Times: 1
+	Query: "specificepithet:bovallii genus:Rhinobothryum" ; Times: 5
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "specificepithet:bovallii genus:Rhinobothryum institutioncode:AMNH" ; Times: 1
+	Query: "country:"Colombia" genus:Trachyboa" ; Times: 1
+	Query: "ambystoma dumerilii" ; Times: 2
+	Query: "Eurycea aquatica" ; Times: 1
+	Query: "stateprovince:"Rivas" country:"Nicaragua" class:Reptilia AND (NOT KU)" ; Times: 1
+	Query: "49339" ; Times: 3
+	Query: "country:"Nicaragua" genus:Polychrus" ; Times: 1
+	Query: "Exerodonta pinorum" ; Times: 1
+	Query: "institutioncode:AMNH (Bothrops iglesiasi)" ; Times: 1
+	Query: "county:"mason" stateprovince:"washington" genus:ambystoma" ; Times: 2
+	Query: "country:"Panama" specificepithet:bovallii genus:Rhinobothryum" ; Times: 1
+	Query: "specificepithet:montana genus:Rhadinaea" ; Times: 1
+	Query: "country:"Peru" genus:Tripanurgos" ; Times: 1
+	Query: ""Gastrophryne olivacea" county:"comal" stateprovince:"Texas"" ; Times: 1
+	Query: "multivirgatus new mexico" ; Times: 1
+	Query: "country:"Panama" specificepithet:lineatus genus:Liophis institutioncode:AMNH" ; Times: 1
+	Query: "Mabuya heathi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 189 (out of 976 download events in this period)
+Total number of records downloaded: 211240 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 78469
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Guatemala ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 38
+	Country: Panama ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: United States ; Times: 110
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 9
+	Date: 2015-05-07 ; Times: 16
+	Date: 2015-05-08 ; Times: 4
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-10 ; Times: 2
+	Date: 2015-05-11 ; Times: 6
+	Date: 2015-05-12 ; Times: 5
+	Date: 2015-05-13 ; Times: 11
+	Date: 2015-05-14 ; Times: 5
+	Date: 2015-05-15 ; Times: 4
+	Date: 2015-05-17 ; Times: 2
+	Date: 2015-05-18 ; Times: 4
+	Date: 2015-05-19 ; Times: 6
+	Date: 2015-05-20 ; Times: 3
+	Date: 2015-05-21 ; Times: 42
+	Date: 2015-05-22 ; Times: 4
+	Date: 2015-05-23 ; Times: 3
+	Date: 2015-05-24 ; Times: 5
+	Date: 2015-05-25 ; Times: 26
+	Date: 2015-05-26 ; Times: 12
+	Date: 2015-05-27 ; Times: 2
+	Date: 2015-05-28 ; Times: 5
+	Date: 2015-05-29 ; Times: 8
+	Date: 2015-05-30 ; Times: 2
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "alytes" ; Times: 1
+	Query: "Enhydrina" ; Times: 2
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "micrurus dumerilii transandinus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Eumeces indubitus" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "tomistoma" ; Times: 1
+	Query: "Craugastor emcelae" ; Times: 1
+	Query: "Pristidactylus" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "Lapemis" ; Times: 1
+	Query: "Hydromantes shastae" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "astrotia" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "thamnophis sirtalis idaho" ; Times: 1
+	Query: "aspidoscelis tigris" ; Times: 1
+	Query: "Craugastor monnichorum" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "ambystoma mavortium" ; Times: 1
+	Query: "Pseudacris regilla country:"Mexico"" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Plestiodon" ; Times: 1
+	Query: "aipysurus" ; Times: 1
+	Query: "Plethodon punctatus" ; Times: 1
+	Query: "Plethodon websteri" ; Times: 1
+	Query: "callisaurus draconoides stateprovince:"baja california" country:"mexico"" ; Times: 1
+	Query: "country:"Mexico" specificepithet:triseriatus genus:Crotalus" ; Times: 1
+	Query: "stateprovince:"Colorado" genus:Crotalus" ; Times: 1
+	Query: "salvadora hexalepis" ; Times: 1
+	Query: "san marcos guatemala" ; Times: 1
+	Query: "tachymenis peruviana" ; Times: 1
+	Query: "amphisbaena MANNI" ; Times: 2
+	Query: "Amphiuma pholeter" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "mcallii" ; Times: 1
+	Query: "Plethodon fourchensis" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Eumeces lynxe" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Plethodon shenandoah" ; Times: 1
+	Query: "stateprovince:"chihuahua" country:"mexico" genus:kinosternon" ; Times: 1
+	Query: "discoglossus" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "(graptemys OR pseudemys OR trachemys OR kinosternon OR sternotherus OR rhinoclemmys) tissue:1" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "stateprovince:"Arizona" country:"United States" specificepithet:burti genus:Aspidoscelis" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "country:"Mexico" specificepithet:polystictus genus:Crotalus" ; Times: 1
+	Query: "agamidae" ; Times: 2
+	Query: "lithobates yavapaiensis" ; Times: 1
+	Query: "phrynosoma platyrhinos" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "Charina" ; Times: 1
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "Homoroselaps" ; Times: 1
+	Query: "anolis crassulus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:intermedius genus:Crotalus" ; Times: 1
+	Query: "Viperidae type:specimen institutioncode:AMNH" ; Times: 1
+	Query: "charina bottae" ; Times: 2
+	Query: "graptemys stateprovince:"Texas"" ; Times: 1
+	Query: "micrurus dumerilii" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "python reticulatus" ; Times: 2
+	Query: "arizona elegans" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:amphibia" ; Times: 1
+	Query: "lithobates sphenocephalus" ; Times: 1
+	Query: "Desmognathus stateprovince:"Mississippi"" ; Times: 1
+	Query: "Eurycea junaluska" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 2
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Plethodon teyahalee" ; Times: 1
+	Query: "Graptemys geographica" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "pleurodema marmoratum" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "Phaeognathus hubrichti" ; Times: 1
+	Query: "scinax duartei" ; Times: 1
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "pseudoeurycea nigromaculata" ; Times: 2
+	Query: "hydrophis" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Acutotyphlops" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "hydrelaps" ; Times: 1
+	Query: "laticauda" ; Times: 1
+	Query: "county:"Nipissing"" ; Times: 1
+	Query: "anolis aquaticus" ; Times: 1
+	Query: "sceloporus magister" ; Times: 1
+	Query: "subocularis" ; Times: 1
+	Query: "coleonyx brevis" ; Times: 1
+	Query: "Eleutherodactylus verrucipes" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "Disteira" ; Times: 1
+	Query: "Eleutherodactylus longipes" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "incilius alvarius" ; Times: 1
+	Query: "crotaphytus collaris" ; Times: 1
+	Query: "stateprovince:"Queretaro" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "anaxyrus cognatus" ; Times: 1
+	Query: "Gyrinophilus palleucus" ; Times: 1
+	Query: "seminatrix pygaea stateprovince:"north carolina"" ; Times: 1
+	Query: "plethodon hoffmani" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "ephalophis" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "stateprovince:"North Carolina" country:"United States" specificepithet:terrapin genus:Malaclemys" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "multivirgatus" ; Times: 1
+	Query: "stateprovince:"Sonora" country:"Mexico" class:reptilia" ; Times: 1
+	Query: "klauberi county:"San Bernardino"" ; Times: 1
+	Query: "Hypsilurus" ; Times: 1
+	Query: "institutioncode:AMNH (Crotalus triseriatus)" ; Times: 1
+	Query: "callisaurus draconoides country:"Mexico"" ; Times: 1
+	Query: "Plethodon aureolus" ; Times: 1
+	Query: "Desmognathus santeetlah" ; Times: 1
+	Query: "Lithobates catesbeianus type:specimen" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "Sceloporus formosus" ; Times: 1
+	Query: "crotaphytus bicinctores" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "catalognumber:115064 institutioncode:AMNH" ; Times: 1
+	Query: "Eumeces copei" ; Times: 1
+	Query: "Malacochersus tornieri" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Pseudacris brachyphona" ; Times: 1
+	Query: "Charina bottae" ; Times: 2
+	Query: "Desmognathus imitator" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"washington"" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "Storeria dekayi Wisconsin" ; Times: 3
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "stateprovince:"jalisco" country:"mexico" class:reptilia" ; Times: 1
+	Query: "country:"Mexico" specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:communis genus:Aspidoscelis" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 1
+	Query: "ambystoma dumerilii" ; Times: 1
+	Query: "Plethodon nettingi" ; Times: 1
+	Query: "Eurycea aquatica" ; Times: 1
+	Query: "Lichanura" ; Times: 1
+	Query: "Eumeces" ; Times: 1
+	Query: "(alytes OR discoglossus)" ; Times: 1
+	Query: "anaxyrus terrestris" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "podarcis sicula" ; Times: 1
+	Query: "Lepidophyma smithii" ; Times: 1
+	Query: "rana yavapaiensis" ; Times: 1
+	Query: "ambystoma gracile stateprovince:"Oregon"" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "bipes biporus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Lithobates berlandieri class:Amphibia" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Plethodon hubrichti" ; Times: 1
+	Query: "country:"Mexico" specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "sceloporus variabilis tamaulipas" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Plethodon petraeus" ; Times: 1
+	Query: "stateprovince:"jalisco" country:"mexico" class:amphibia" ; Times: 1
+	Query: "lampropeltis splendida" ; Times: 1
+	Query: "Eleutherodactylus leprus" ; Times: 1
+	Query: "Desmognathus apalachicolae" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1501
+Total number of records retrieved from searches: 16316
+Number of download events that retrieved data from the resource: 285
+Total number of records downloaded: 297460
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1501
+Total number of records retrieved from searches: 16316
+Number of download events that retrieved data from the resource: 285
+Total number of records downloaded: 297460
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
