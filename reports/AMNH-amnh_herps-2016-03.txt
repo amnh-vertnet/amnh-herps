@@ -1,0 +1,188 @@
+Report for Institution Code AMNH, Resource amnh_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 1347
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 54
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 26
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Suriname ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-02 ; Times: 3
+	Date: 2016-03-10 ; Times: 9
+	Date: 2016-03-01 ; Times: 15
+	Date: 2016-03-08 ; Times: 7
+	Date: 2016-03-09 ; Times: 13
+	Date: 2016-03-06 ; Times: 5
+	Date: 2016-03-14 ; Times: 4
+	Date: 2016-03-04 ; Times: 8
+	Date: 2016-03-05 ; Times: 5
+	Date: 2016-03-11 ; Times: 17
+	Date: 2016-03-03 ; Times: 24
+	Date: 2016-03-13 ; Times: 9
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 1
+	Query: "AMNH 38985" ; Times: 1
+	Query: "AMNH 38983" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "Smilisca dentata" ; Times: 1
+	Query: "genus:Euphlyctis specificepithet:hexadactylus" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "&#34;Anaxyrus microscaphus&#34; Arizona" ; Times: 1
+	Query: "Eumeces gilberti county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:malaclemys stateprovince:&#34;texas&#34;" ; Times: 13
+	Query: "Bothriechis supraciliaris" ; Times: 1
+	Query: "Rhinoclemmys stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "clonophis marion indiana" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "order:Anura class:Amphibia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Stilosoma extenuatum stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Anniella geronimensis" ; Times: 1
+	Query: "catalognumber:71328 institutioncode:AMNH" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "Leptobrachium chapaense" ; Times: 1
+	Query: "Rana coreana" ; Times: 1
+	Query: "Ctenosaura similis Nicaragua" ; Times: 1
+	Query: "Tzabcan" ; Times: 2
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "micrurus ornatissimus institutioncode:AMNH" ; Times: 1
+	Query: "Plectrohyla acanthodes" ; Times: 1
+	Query: "Dendropsophus melanargyreus" ; Times: 1
+	Query: "gastrotheca cornuta panama" ; Times: 1
+	Query: "Dendropsophus microcephalus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "Gymnophthalmus cryptus" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "chrysopelea china" ; Times: 2
+	Query: "Ptyodactylus guttatus" ; Times: 1
+	Query: "Rana johnsi" ; Times: 1
+	Query: "Crocodylus moreletii stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Tylototriton asperrimus" ; Times: 2
+	Query: "Imantodes phantasma" ; Times: 1
+	Query: "catalognumber:14857 institutioncode:AMNH" ; Times: 1
+	Query: "Plectrohyla bistincta" ; Times: 2
+	Query: "Echinotriton andersoni" ; Times: 1
+	Query: "micrurus institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:33756 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:acutus genus:Crocodylus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "spea county:&#34;sonoma&#34;" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "geophis carinosus" ; Times: 1
+	Query: "AMNH 55833" ; Times: 1
+	Query: "raniceps tissue:1" ; Times: 1
+	Query: "Paramesotriton deloustali" ; Times: 1
+	Query: "Heloderma horridum exasperatum" ; Times: 1
+	Query: "116352" ; Times: 2
+	Query: "crotalus aquilus" ; Times: 3
+	Query: "class:Reptilia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Sceloporus megalepidurus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "crotalus clark county nevada" ; Times: 1
+	Query: "specificepithet:laterale stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "genus:Celestus island:Hispaniola" ; Times: 1
+	Query: "Vaupes Amphibia" ; Times: 3
+	Query: "Taeniophallus institutioncode:AMNH" ; Times: 1
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "Leptobrachium liui" ; Times: 1
+	Query: "genus:Gonatodes stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "coleonyx fasciatus" ; Times: 2
+	Query: "micrurus country:&#34;Mexico&#34; institutioncode:AMNH" ; Times: 1
+	Query: "mojave type:specimen order:squamata institutioncode:AMNH" ; Times: 1
+	Query: "Hyalinobatrachium crurifasciatum" ; Times: 2
+	Query: "genus:Oophaga specificepithet:granulifera" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "Phyllobates aurotaenia" ; Times: 4
+	Query: "atractus institutioncode:AMNH" ; Times: 1
+	Query: "telmatobius jelskii" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "Heloderma horridum alvarezi" ; Times: 2
+	Query: "senticolis intermedia" ; Times: 1
+	Query: "genus:Hemidactylium county:&#34;columbia&#34;" ; Times: 1
+	Query: "genus:Dendrobates stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Engystomops pustulosus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Gerrhonotus ophiurus" ; Times: 1
+	Query: "NOTOPHTHALMUS institutioncode:AMNH" ; Times: 1
+	Query: "AMNH Aparallactus capensis" ; Times: 1
+	Query: "chersodromus liebmanni" ; Times: 1
+	Query: "specificepithet:augusti class:Amphibia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 230 download events in this period)
+Total number of records downloaded: 235237
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Kenya ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 6
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 12
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "tissue" ; Times: 33
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Smilisca dentata" ; Times: 1
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "Lithobates maculatus" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "&#34;Anaxyrus microscaphus&#34; Arizona" ; Times: 1
+	Query: "anolis hastypestatus:1" ; Times: 1
+	Query: "atractus trilineatus" ; Times: 1
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "&#34;Sauromalus ater&#34; Arizona" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+
+
+End of report.
