@@ -1,0 +1,793 @@
+Report for Institution Code AMNH, Resource amnh_herps
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 902
+Number of records retrieved in searches: 15607
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 26
+	Country: Canada ; Times: 16
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 40
+	Country: Unknown ; Times: 182
+	Country: Puerto Rico ; Times: 2
+	Country: France ; Times: 13
+	Country: United States ; Times: 561
+	Country: Ecuador ; Times: 11
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 34
+	Country: Chile ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 50
+	Date: 2016-08-11 ; Times: 30
+	Date: 2016-08-12 ; Times: 31
+	Date: 2016-08-13 ; Times: 15
+	Date: 2016-08-14 ; Times: 12
+	Date: 2016-08-15 ; Times: 46
+	Date: 2016-08-16 ; Times: 199
+	Date: 2016-08-17 ; Times: 24
+	Date: 2016-08-18 ; Times: 47
+	Date: 2016-08-19 ; Times: 21
+	Date: 2016-08-30 ; Times: 21
+	Date: 2016-08-31 ; Times: 28
+	Date: 2016-08-29 ; Times: 17
+	Date: 2016-08-28 ; Times: 60
+	Date: 2016-08-25 ; Times: 31
+	Date: 2016-08-24 ; Times: 28
+	Date: 2016-08-27 ; Times: 50
+	Date: 2016-08-26 ; Times: 100
+	Date: 2016-08-21 ; Times: 13
+	Date: 2016-08-20 ; Times: 19
+	Date: 2016-08-23 ; Times: 19
+	Date: 2016-08-22 ; Times: 40
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis tissue:1" ; Times: 2
+	Query: "Uta nolascensis" ; Times: 1
+	Query: "VIRIDESCENS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "AMNH R-140668" ; Times: 5
+	Query: "anolis chloris" ; Times: 1
+	Query: "AMNH R-99682" ; Times: 2
+	Query: "genus:Hypsiboas specificepithet:semilineatus" ; Times: 1
+	Query: "Eleutherodactylus gryllus" ; Times: 1
+	Query: "108905" ; Times: 1
+	Query: "crotalus san juan new mexico" ; Times: 1
+	Query: "AMNH R-95902" ; Times: 2
+	Query: "&#34;euspondylus maculatus&#34;" ; Times: 1
+	Query: "Clemmys guttata stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "type:specimen (Craugastor montanus) institutioncode:AMNH" ; Times: 1
+	Query: "Crotalus viridis county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Speleomantes" ; Times: 1
+	Query: "genus:Pelophylax specificepithet:esculentus" ; Times: 1
+	Query: "Sternotherus peltifer" ; Times: 1
+	Query: "trimorphodon new mexico" ; Times: 2
+	Query: "Bachia tissue:1" ; Times: 1
+	Query: "AMNH R-40723" ; Times: 2
+	Query: "Hypsiboas cinerascens" ; Times: 13
+	Query: "Litoria pygmaea" ; Times: 1
+	Query: "Dicamptodon aterrimus" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Terrapene stateprovince:&#34;Nayarit&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Brookesia tissue:1" ; Times: 1
+	Query: "pseudacris maculata nebraska" ; Times: 1
+	Query: "anolis centralis" ; Times: 1
+	Query: "aMBYSTOMA county:&#34;kENT&#34; stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "anolis fitchi" ; Times: 1
+	Query: "boiga ceylonensis" ; Times: 3
+	Query: "96656" ; Times: 1
+	Query: "AMNH R-155172" ; Times: 2
+	Query: "anolis kemptoni" ; Times: 1
+	Query: "anolis gracilipes" ; Times: 1
+	Query: "AMNH R-98954" ; Times: 3
+	Query: "laticauda schistorhynchus" ; Times: 2
+	Query: "New York sistrurus" ; Times: 3
+	Query: "Dracaena tissue:1" ; Times: 1
+	Query: "AMNH R-155197" ; Times: 2
+	Query: "Thamnophis errans" ; Times: 1
+	Query: "Crotalus horridus stateprovince:new york" ; Times: 1
+	Query: "Hydrosaurus tissue:1" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis class:Reptilia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "SCUTATUM stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "AMNH R-74779" ; Times: 3
+	Query: "Trimeresurus erythrurus" ; Times: 1
+	Query: "anolis fraseri" ; Times: 1
+	Query: "anolis litoralis" ; Times: 1
+	Query: "AMNH R-29227" ; Times: 2
+	Query: "Bothrocophias campbelli" ; Times: 3
+	Query: "trimeresurus gramineus" ; Times: 1
+	Query: "varanus flavescens" ; Times: 1
+	Query: "catenatus arizona" ; Times: 1
+	Query: "Hemiphractus fasciatus" ; Times: 1
+	Query: "specificepithet:marmoratus genus:anolis institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:niger genus:aneides" ; Times: 4
+	Query: "AMNH R-140794" ; Times: 2
+	Query: "AMNH R-103870" ; Times: 2
+	Query: "Furcifer tissue:1" ; Times: 2
+	Query: "specificepithet:ammodytoides family:viperidae" ; Times: 1
+	Query: "AMNH 93116" ; Times: 2
+	Query: "anolis cymbops" ; Times: 2
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "114007" ; Times: 1
+	Query: "genus:sibon stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "AMNH R-86089" ; Times: 5
+	Query: "salvadora intermedia" ; Times: 7
+	Query: "varanus rudicollis type:specimen tissue:1" ; Times: 1
+	Query: "genus:Leptopelis country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "anolis tigrinus" ; Times: 1
+	Query: "genus:rhinobothryum" ; Times: 2
+	Query: "Dicrodon heterolepis" ; Times: 1
+	Query: "petropedetes type:specimen order:Anura" ; Times: 1
+	Query: "PIPIENS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Bothrops sanctaecrucis" ; Times: 1
+	Query: "AMNH 133266" ; Times: 2
+	Query: "Kinyongia tissue:1" ; Times: 1
+	Query: "Gymnophthalmus tissue:1" ; Times: 2
+	Query: "AMNH R-11243" ; Times: 2
+	Query: "Sternotherus minor Mississippi" ; Times: 2
+	Query: "Sternotherus minor peltifer Mississippi" ; Times: 1
+	Query: "AMNH R-61588" ; Times: 2
+	Query: "Micrurus dumerilii" ; Times: 77
+	Query: "169695" ; Times: 1
+	Query: "varanus rudicollis" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:gryllus" ; Times: 1
+	Query: "Lithobates pustulosus" ; Times: 1
+	Query: "Sepsina angolensis" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Graham county Crotalus Cerberus" ; Times: 2
+	Query: "AMNH 144828" ; Times: 2
+	Query: "lycodon travancoricus" ; Times: 2
+	Query: "anolis bremeri" ; Times: 1
+	Query: "Proceratophrys cristiceps" ; Times: 2
+	Query: "AMNH R-61821" ; Times: 2
+	Query: "Alopoglossus tissue:1" ; Times: 1
+	Query: "specificepithet:cyanochloris genus:Celestus" ; Times: 3
+	Query: "anolis danieli" ; Times: 1
+	Query: "GYRINOPHILUS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Virginia valeriae stateprovince:&#34;South carolina&#34;" ; Times: 1
+	Query: "Crotaphytus vestigium" ; Times: 1
+	Query: "Mabuya agilis" ; Times: 1
+	Query: "Ambystoma barbouri" ; Times: 2
+	Query: "Atheris hispida" ; Times: 2
+	Query: "Indirana type:specimen order:Anura" ; Times: 1
+	Query: "anolis pumilus" ; Times: 1
+	Query: "anolis casildae" ; Times: 1
+	Query: "lanthanotus" ; Times: 1
+	Query: "AMNH R-141128" ; Times: 2
+	Query: "specificepithet:imbricata genus:Eretmochelys" ; Times: 3
+	Query: "Tracheloptychus tissue:1" ; Times: 1
+	Query: "Bothrops bicolor" ; Times: 1
+	Query: "Voeltzkowia mira" ; Times: 2
+	Query: "AMNH R-16974" ; Times: 3
+	Query: "genus:Ichthyosaura specificepithet:alpestris" ; Times: 3
+	Query: "catalognumber:114007" ; Times: 1
+	Query: "AMNH R-48528" ; Times: 2
+	Query: "genus:Eumeces stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Carphophis amoenus stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "133833" ; Times: 1
+	Query: "Sphenomorphus boulengeri" ; Times: 1
+	Query: "gbifdatasetid:71d0dff0-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "anolis maculiventris" ; Times: 1
+	Query: "AMNH R-8665" ; Times: 2
+	Query: "varanus nebulosus" ; Times: 3
+	Query: "AMNH R-24807" ; Times: 2
+	Query: "AMNH R-66219" ; Times: 3
+	Query: "aMBYSTOMA OPACUM stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "anolis isthmicus" ; Times: 1
+	Query: "Scincella silvicola" ; Times: 1
+	Query: "Ascaphus montanus" ; Times: 9
+	Query: "Pseudoeurycea anitae" ; Times: 2
+	Query: "genus:Chalcides tissue:1" ; Times: 1
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "Craugastor montanus AMNH" ; Times: 1
+	Query: "anolis transversalis" ; Times: 1
+	Query: "Gymnophthalmus (speciosus) tissue:1" ; Times: 1
+	Query: "&#34;Coleonyx variegatus variegatus&#34; Arizona" ; Times: 1
+	Query: "Sminthillus peruvianus" ; Times: 1
+	Query: "Eleutherodactylus verrucipes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "AMNH R-11200" ; Times: 5
+	Query: "New York Regina" ; Times: 1
+	Query: "Pseudoficimia" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa tissue:1" ; Times: 1
+	Query: "AMNH R-40734" ; Times: 4
+	Query: "Sphenomorphus formosensis" ; Times: 1
+	Query: "Leiolepis (belliana) tissue:1" ; Times: 1
+	Query: "AMNH R-16412" ; Times: 4
+	Query: "Dicrodon" ; Times: 2
+	Query: "Gerrhosaurus tissue:1" ; Times: 1
+	Query: "phrynosoma ditmarsi" ; Times: 1
+	Query: "52883" ; Times: 1
+	Query: "anolis sulcifrons" ; Times: 3
+	Query: "clelia mexico" ; Times: 1
+	Query: "genus:Tupinambis tissue:1" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:altamirani" ; Times: 1
+	Query: "Atelopus balios" ; Times: 1
+	Query: "AMNH R-31984" ; Times: 2
+	Query: "Elapsoidea loveridgei" ; Times: 1
+	Query: "abronia bogerti" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Polk&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 3
+	Query: "CINEREUS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "AMNH R-33180" ; Times: 5
+	Query: "Kentropyx tissue:1" ; Times: 5
+	Query: "anolis quadriocellifer" ; Times: 1
+	Query: "anolis squamulatus" ; Times: 1
+	Query: "specificepithet:putumayensis genus:Micrurus" ; Times: 1
+	Query: "Thamnophis cyrtopsis Sinaloa" ; Times: 1
+	Query: "NECTURUS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "164650" ; Times: 1
+	Query: "family:Chelidae institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 2
+	Query: "hemiphractus fasciatus" ; Times: 1
+	Query: "anolis paternus" ; Times: 1
+	Query: "Ranixalidae type:specimen order:Anura" ; Times: 1
+	Query: "Cryptobranchus county:&#34;Garrett&#34;" ; Times: 1
+	Query: "specificepithet:agrenon genus:xenosaurus" ; Times: 2
+	Query: "AMNH R-155189" ; Times: 3
+	Query: "AMNH R-102250" ; Times: 2
+	Query: "oligodon taeniolatus" ; Times: 1
+	Query: "Anolis carolinensis type:specimen institutioncode:AMNH" ; Times: 1
+	Query: "tHAMNOPHIS SIRTALIS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "AMNH R-20902" ; Times: 2
+	Query: "anolis fasciatus" ; Times: 1
+	Query: "Hemicordylus nebulosus" ; Times: 2
+	Query: "Bothrocophias microphthalmus" ; Times: 4
+	Query: "Varanus nebulosus type:specimen" ; Times: 1
+	Query: "Sternotherus minor stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "AMNH R-100371" ; Times: 2
+	Query: "AMNH R-69434" ; Times: 3
+	Query: "Bothrocophias hyoprora" ; Times: 4
+	Query: "Sonora mutabilis" ; Times: 1
+	Query: "pyromelana coconino" ; Times: 1
+	Query: "anolis ventrimaculatus" ; Times: 1
+	Query: "tHAMNOPHIS SAURITUS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 1
+	Query: "175126" ; Times: 1
+	Query: "Acontias gracilicauda" ; Times: 1
+	Query: "Phrynella type:specimen order:Anura" ; Times: 1
+	Query: "boiga trigonata" ; Times: 1
+	Query: "micrurus proximans" ; Times: 1
+	Query: "specificepithet:dumasi institutioncode:AMNH" ; Times: 2
+	Query: "anolis vittigerus" ; Times: 1
+	Query: "cryptobranchus New York" ; Times: 1
+	Query: "tretioscincus tissue:1" ; Times: 1
+	Query: "Egernia hosmeri" ; Times: 2
+	Query: "AMNH R-32221" ; Times: 4
+	Query: "speleomantes" ; Times: 1
+	Query: "Panaspis breviceps" ; Times: 1
+	Query: "Phyllomedusa rohdei" ; Times: 1
+	Query: "crotalus salvini" ; Times: 1
+	Query: "Metaphrynella type:specimen order:Anura" ; Times: 1
+	Query: "AMNH R-109340" ; Times: 2
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "Trimeresurus medoensis" ; Times: 1
+	Query: "AMNH R-39391" ; Times: 4
+	Query: "anolis occultus" ; Times: 1
+	Query: "92074" ; Times: 1
+	Query: "specificepithet:frontalis genus:Micrurus country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "AMNH R-59015" ; Times: 3
+	Query: "VERNALIS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Craugastor occidentalis" ; Times: 2
+	Query: "genus:Heterodon order:Squamata stateprovince:&#34;New Hampshire&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "lampropeltis triangulum nebraska" ; Times: 1
+	Query: "genus:Anaxyrus order:Anura stateprovince:&#34;New Hampshire&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Dasia olivacea" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "type:specimen (Craugastor mexicanus) institutioncode:AMNH" ; Times: 1
+	Query: "AMNH R-83916" ; Times: 3
+	Query: "specificepithet:intermedia genus:Salvadora stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "apalone mutica texas" ; Times: 3
+	Query: "tribolonotus brongersmai" ; Times: 9
+	Query: "crocodylus moreletii" ; Times: 5
+	Query: "euspondylus maculatus" ; Times: 1
+	Query: "lithobates montezumae" ; Times: 1
+	Query: "catalognumber:120426" ; Times: 1
+	Query: "nERODIA stateprovince:&#34;Rhode Island&#34;" ; Times: 2
+	Query: "anolis garridoi" ; Times: 1
+	Query: "specificepithet:mexicana genus:Aspidoscelis stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sistrurus catenatus county:&#34;Wayne&#34; stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "micrurus bernadi" ; Times: 1
+	Query: "Varanus bengalensis type:specimen tissue:1" ; Times: 2
+	Query: "cercosaura tissue:1" ; Times: 1
+	Query: "Hyla wrightorum" ; Times: 2
+	Query: "AMNH R-99684" ; Times: 4
+	Query: "AMNH 133329" ; Times: 2
+	Query: "philodryas nattereri" ; Times: 1
+	Query: "phrynella pulchra type:specimen family:Microhylidae" ; Times: 1
+	Query: "Heterodon stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "chamaeleonides" ; Times: 1
+	Query: "AMNH R-33194" ; Times: 3
+	Query: "ANAXYRUS AMERICANUS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "AMNH R-68919" ; Times: 2
+	Query: "Lampropeltis polyzona" ; Times: 2
+	Query: "Craugastor mexicanus AMNH" ; Times: 2
+	Query: "anolis breedlovei" ; Times: 1
+	Query: "Plethodon ouachitae" ; Times: 8
+	Query: "anolis cyanopleurus" ; Times: 1
+	Query: "AMNH R-27296" ; Times: 2
+	Query: "HOLBROOKII stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "AMNH R-103871" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34; AND (NOT KU)" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 5
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "Ateuchosaurus chinensis" ; Times: 1
+	Query: "anolis mestrei" ; Times: 1
+	Query: "AMNH R-48868" ; Times: 2
+	Query: "Allobates melanolaemus" ; Times: 1
+	Query: "noblella peruviana" ; Times: 3
+	Query: "anolis vermiculatus" ; Times: 1
+	Query: "family:Kinosternidae institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "Oxyrhabdium country:&#34;Philippines&#34;" ; Times: 4
+	Query: "terrapene nelsoni" ; Times: 1
+	Query: "Micrurus ortoni" ; Times: 10
+	Query: "anolis confusus" ; Times: 2
+	Query: "anolis carpenteri" ; Times: 6
+	Query: "VERSICOLOR stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "catalognumber:17304 institutioncode:AMNH" ; Times: 2
+	Query: "aMBYSTOMA county:&#34;BRISTOL&#34; stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "micrurus annellatus" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Garland&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "anolis parvicirculatus" ; Times: 1
+	Query: "Anolis cymbops" ; Times: 1
+	Query: "brongersmianus" ; Times: 1
+	Query: "type:specimen (Craugastor omiltemanus) institutioncode:AMNH" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 3
+	Query: "catalognumber:116487" ; Times: 1
+	Query: "San Bernardino county charina" ; Times: 1
+	Query: "catalognumber:119809" ; Times: 1
+	Query: "Trachemys ornata" ; Times: 1
+	Query: "AMNH R-75610" ; Times: 3
+	Query: "eleutherodactylus gryllus" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 2
+	Query: "AMNH R-7116" ; Times: 3
+	Query: "Leiolepis tissue:1" ; Times: 1
+	Query: "95656" ; Times: 1
+	Query: "AMNH R-86661" ; Times: 4
+	Query: "Apalone spinifera county:&#34;Washtenaw&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "AMNH R-50669" ; Times: 2
+	Query: "genus:gopherus stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "anolis chocorum" ; Times: 1
+	Query: "anolis clivicola" ; Times: 1
+	Query: "anolis petersii" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 1
+	Query: "EURYCEA stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "crotalus adamanteus county:&#34;collier&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Lampropeltis stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "crotalus adamanteus county:&#34;okeechobee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "typhlops depressiceps" ; Times: 1
+	Query: "kinosternon scorpioides tissue:1" ; Times: 1
+	Query: "Tribolonotus brongersmai" ; Times: 1
+	Query: "Lankanectes corrugatus type:specimen order:Anura" ; Times: 1
+	Query: "OBSOLETA stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "phrynella type:specimen family:Microhylidae" ; Times: 1
+	Query: "anolis parvauritus" ; Times: 1
+	Query: "72619" ; Times: 1
+	Query: "71290" ; Times: 1
+	Query: "specificepithet:narduccii genus:Leptomicrurus stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 4
+	Query: "trimorphodon biscutatus new mexico" ; Times: 1
+	Query: "Thamnophis scalaris" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "64030" ; Times: 1
+	Query: "Panaspis cabindae" ; Times: 2
+	Query: "calamaria gervaisii" ; Times: 1
+	Query: "Micrurus langsdorffi" ; Times: 22
+	Query: "Corucia type:specimen tissue:1" ; Times: 1
+	Query: "pseudotyphlops" ; Times: 1
+	Query: "Anaxyrus kelloggi" ; Times: 1
+	Query: "country:&#34;Benin&#34; institutioncode:AMNH" ; Times: 1
+	Query: "genus:Gonocephalus country:&#34;Philippines&#34;" ; Times: 2
+	Query: "typhlops brongersmianus" ; Times: 16
+	Query: "Anelytropsis" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 2
+	Query: "genus:anolis institutioncode:AMNH" ; Times: 1
+	Query: "anolis macrolepis" ; Times: 1
+	Query: "trimeresurus macrolepis" ; Times: 2
+	Query: "AMNH R-48507" ; Times: 2
+	Query: "anolis frenatus" ; Times: 1
+	Query: "Lepidoblepharis Ecuador" ; Times: 2
+	Query: "Acontias" ; Times: 2
+	Query: "STORERIA occipitomaculata stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Pseudemys tissue:1" ; Times: 1
+	Query: "anolis boettgeri" ; Times: 1
+	Query: "trimorphodon texas El Paso" ; Times: 1
+	Query: "Thamnophis eques Sonora" ; Times: 2
+	Query: "AMNH R-110170" ; Times: 3
+	Query: "AMNH R-95772" ; Times: 4
+	Query: "anolis haguei" ; Times: 1
+	Query: "Craugastor pygmaeus AMNH" ; Times: 1
+	Query: "Lamprolepis smaragdina elberti" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Oligosoma lineoocellatum" ; Times: 1
+	Query: "Typhlosaurus meyeri" ; Times: 2
+	Query: "Lygosoma sundevallii" ; Times: 1
+	Query: "Crotalus oaxacus" ; Times: 5
+	Query: "AMNH R-37830" ; Times: 2
+	Query: "kirtlandii institutioncode:AMNH" ; Times: 1
+	Query: "Graham county modestum" ; Times: 1
+	Query: "Chelydra serpentina stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "catalognumber:115634" ; Times: 1
+	Query: "AMNH R-87779" ; Times: 2
+	Query: "Mabuya agilis nicaragua" ; Times: 1
+	Query: "anolis latifrons" ; Times: 1
+	Query: "Zonosaurus tissue:1" ; Times: 1
+	Query: "COLUBER CONSTRICTOR stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "AMNH R-1742" ; Times: 2
+	Query: "54750" ; Times: 1
+	Query: "country:&#34;angola&#34; genus:cordylus institutioncode:amnh" ; Times: 1
+	Query: "rhinobothryum" ; Times: 1
+	Query: "STORERIA DEKAYI stateprovince:&#34;Rhode Island&#34;" ; Times: 2
+	Query: "Craugastor omiltemanus AMNH" ; Times: 1
+	Query: "charina mono" ; Times: 3
+	Query: "AMNH 133338" ; Times: 2
+	Query: "Tupinambis type:specimen tissue:1" ; Times: 1
+	Query: "Micrurus ancoralis" ; Times: 6
+	Query: "Trachemys scripta stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "AMNH 133330" ; Times: 1
+	Query: "anolis festae" ; Times: 1
+	Query: "AMNH R-34909" ; Times: 3
+	Query: "AMNH R-73346" ; Times: 2
+	Query: "AMNH R-57864" ; Times: 4
+	Query: "anolis noblei" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 1
+	Query: "Graptemys ouachitensis stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "petropedetes natator type:specimen" ; Times: 1
+	Query: "specificepithet:yaquia genus:Tantilla tissue:1" ; Times: 1
+	Query: "AMNH R-101136" ; Times: 3
+	Query: "anolis meridionalis" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "macroscincus coctei" ; Times: 1
+	Query: "specificepithet:pyrrhocryptus genus:Micrurus" ; Times: 1
+	Query: "AMNH R-140809" ; Times: 5
+	Query: "nuntius arizona" ; Times: 2
+	Query: "type:specimen genus:leptotyphlops tissue:1" ; Times: 2
+	Query: "Diadophis stateprovince:&#34;Rhode Island&#34;" ; Times: 2
+	Query: "AMNH R-48787" ; Times: 2
+	Query: "type:specimen (Craugastor pygmaeus) institutioncode:AMNH" ; Times: 1
+	Query: "Scincella himalayana" ; Times: 4
+	Query: "AMNH AND 46141" ; Times: 1
+	Query: "Lampropeltis pyromelana coconino" ; Times: 2
+	Query: "family:Emydidae institutioncode:AMNH tissue:1" ; Times: 1
+	Query: "AMNH R-28992" ; Times: 2
+	Query: "trivittata" ; Times: 3
+	Query: "AMNH R-73765" ; Times: 3
+	Query: "specificepithet:philippii genus:sibon country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:horridum genus:Heloderma stateprovince:&#34;Nayarit&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anolis eulaemus" ; Times: 1
+	Query: "barisia ciliaris" ; Times: 2
+	Query: "manolepis putnami" ; Times: 1
+	Query: "Crotalus oreganus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Micrurus bocourti" ; Times: 1
+	Query: "anolis macrophallus" ; Times: 1
+	Query: "crotalus horridus new york" ; Times: 6
+	Query: "calligaster virginia fairfax" ; Times: 1
+	Query: "anolis sheplani" ; Times: 1
+	Query: "Eleutherodactylus pallidus" ; Times: 1
+	Query: "AMNH 32356" ; Times: 1
+	Query: "anolis notopholis" ; Times: 1
+	Query: "Sternotherus odoratus stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "ascaphus montanus" ; Times: 1
+	Query: "type:specimen (Craugastor ) institutioncode:AMNH" ; Times: 1
+	Query: "stilosoma extenuatum" ; Times: 1
+	Query: "anolis compressicauda" ; Times: 1
+	Query: "genus:Noblella specificepithet:myrmecoides" ; Times: 1
+	Query: "Craugastor omiltemanus" ; Times: 2
+	Query: "Uromastyx tissue:1" ; Times: 1
+	Query: "specificepithet:ornatissimus genus:Micrurus" ; Times: 1
+	Query: "Craugastor montanus" ; Times: 1
+	Query: "Egernia frerei" ; Times: 1
+	Query: "AMNH R-40441" ; Times: 3
+	Query: "pristimantis euphronides" ; Times: 3
+	Query: "Micrurus helleri" ; Times: 18
+	Query: "Clemmys guttata county:&#34;kENT&#34; stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "AMNH R-110724" ; Times: 2
+	Query: "Taricha sierrae" ; Times: 1
+	Query: "Macroscincus coctei" ; Times: 1
+	Query: "anolis planiceps" ; Times: 1
+	Query: "laudakia himalayana" ; Times: 1
+	Query: "Trachycephalus venulosus stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Heloderma tissue:1" ; Times: 1
+	Query: "Mixcoatlus browni" ; Times: 2
+	Query: "genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:wilcoxi genus:Tantilla" ; Times: 1
+	Query: "genus:anilius tissue:1" ; Times: 3
+	Query: "Reptilia stateprovince:&#34;Louisiana&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "DESMOGNATHUS stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Tlalocohyla picta" ; Times: 2
+	Query: "Sistrurus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Pseudoeurycea unguidentis" ; Times: 2
+	Query: "amnh 47337" ; Times: 1
+	Query: "specificepithet:pectinata genus:Ctenosaura stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Terrapene carolina stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 1
+	Query: "anolis luteogularis" ; Times: 1
+	Query: "hyla arenicolor new mexico" ; Times: 1
+	Query: "Chrysemys picta stateprovince:&#34;Rhode Island&#34;" ; Times: 2
+	Query: "CLAMITANS county:&#34;bRISTOL&#34; stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "order:Squamata county:&#34;Garland&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Phyllomedusa centralis" ; Times: 1
+	Query: "stereochilus north carolina" ; Times: 1
+	Query: "AMNH R-85846" ; Times: 2
+	Query: "Crotalus salvini" ; Times: 1
+	Query: "Lampropeltis getula New Mexico" ; Times: 1
+	Query: "AMNH R-109530" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 240 (out of 924 download events in this period)
+Total number of records downloaded: 64176
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 23
+	Country: United Arab Emirates ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 192
+	Country: Unknown ; Times: 6
+	Country: Colombia ; Times: 5
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 23
+	Date: 2016-08-11 ; Times: 15
+	Date: 2016-08-12 ; Times: 8
+	Date: 2016-08-13 ; Times: 7
+	Date: 2016-08-14 ; Times: 5
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 5
+	Date: 2016-08-17 ; Times: 9
+	Date: 2016-08-18 ; Times: 11
+	Date: 2016-08-19 ; Times: 5
+	Date: 2016-08-30 ; Times: 19
+	Date: 2016-08-31 ; Times: 7
+	Date: 2016-08-29 ; Times: 24
+	Date: 2016-08-28 ; Times: 13
+	Date: 2016-08-25 ; Times: 7
+	Date: 2016-08-24 ; Times: 16
+	Date: 2016-08-27 ; Times: 9
+	Date: 2016-08-26 ; Times: 15
+	Date: 2016-08-21 ; Times: 11
+	Date: 2016-08-20 ; Times: 6
+	Date: 2016-08-23 ; Times: 11
+	Date: 2016-08-22 ; Times: 12
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis breedlovei" ; Times: 1
+	Query: "anolis humilis" ; Times: 1
+	Query: "anolis christophei" ; Times: 1
+	Query: "Hydromantes" ; Times: 1
+	Query: "anolis smaragdinus" ; Times: 1
+	Query: "anolis opalinus" ; Times: 1
+	Query: "anolis petersii" ; Times: 2
+	Query: "Chelydra serpentina stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+	Query: "anolis bremeri" ; Times: 1
+	Query: "anolis valencienni" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "anolis chloris" ; Times: 1
+	Query: "anolis rodriguezi" ; Times: 1
+	Query: "Zonosaurus tissue:1" ; Times: 1
+	Query: "anolis cyanopleurus" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "anolis cobanensis" ; Times: 1
+	Query: "plethodon shenandoah" ; Times: 1
+	Query: "anolis dollfusianus" ; Times: 1
+	Query: "Eleutherodactylus gryllus" ; Times: 1
+	Query: "anolis maculiventris" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "chamaeleonides" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "anolis punctatus" ; Times: 1
+	Query: "anolis dolichocephalus" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "noblella peruviana" ; Times: 1
+	Query: "anolis vermiculatus" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Sternotherus peltifer" ; Times: 1
+	Query: "anolis cuvieri" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Rana muscosa" ; Times: 1
+	Query: "anolis isthmicus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Elgaria tissue:1" ; Times: 1
+	Query: "Spea hammondii" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Ameiva tissue:1" ; Times: 1
+	Query: "anolis carpenteri" ; Times: 1
+	Query: "Pseudemys tissue:1" ; Times: 1
+	Query: "anolis transversalis" ; Times: 1
+	Query: "anolis meridionalis" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+	Query: "genus:Ficimia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anolis stratulus" ; Times: 1
+	Query: "anolis olssoni" ; Times: 1
+	Query: "Brookesia tissue:1" ; Times: 1
+	Query: "anolis centralis" ; Times: 1
+	Query: "anolis distichus favillarum" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "anolis parvicirculatus" ; Times: 1
+	Query: "anolis clivicola" ; Times: 1
+	Query: "Clelia clelia (Clelia AND clelia)" ; Times: 1
+	Query: "anolis fitchi" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "anolis brevirostris" ; Times: 1
+	Query: "Dicrodon" ; Times: 1
+	Query: "anolis kemptoni" ; Times: 2
+	Query: "anolis crassulus" ; Times: 1
+	Query: "anolis gracilipes" ; Times: 1
+	Query: "anolis townsendi" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "&#34;ambystoma barbouri&#34;" ; Times: 1
+	Query: "&#34;Coleonyx variegatus variegatus&#34; Arizona" ; Times: 4
+	Query: "Phyllomedusa azurea" ; Times: 1
+	Query: "anolis jubar" ; Times: 1
+	Query: "anolis lionotus" ; Times: 1
+	Query: "anolis etheridgei" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 2
+	Query: "anolis quadriocellifer" ; Times: 1
+	Query: "anolis cuprinus" ; Times: 1
+	Query: "stateprovince:&#34;choco&#34;" ; Times: 1
+	Query: "anolis uniformis" ; Times: 1
+	Query: "anolis latifrons" ; Times: 1
+	Query: "anolis eulaemus" ; Times: 1
+	Query: "Plethodon glutinosus (Ohio)" ; Times: 1
+	Query: "Hydromantes platycephalus" ; Times: 1
+	Query: "Lithobates septentrionalis" ; Times: 1
+	Query: "varanus bengalensis" ; Times: 1
+	Query: "anolis ophiolepis" ; Times: 1
+	Query: "anolis squamulatus" ; Times: 1
+	Query: "Hydrosaurus tissue:1" ; Times: 1
+	Query: "anolis pulchellus" ; Times: 1
+	Query: "anolis garmani" ; Times: 1
+	Query: "anolis marmoratus marmoratus" ; Times: 1
+	Query: "Contia" ; Times: 1
+	Query: "anolis chocorum" ; Times: 1
+	Query: "anolis chrysolepis chrysolepis" ; Times: 1
+	Query: "anolis polylepis" ; Times: 1
+	Query: "Varanus flavescens" ; Times: 1
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "anolis fraseri" ; Times: 1
+	Query: "anolis macrophallus" ; Times: 1
+	Query: "anolis paternus" ; Times: 1
+	Query: "anolis luciae" ; Times: 1
+	Query: "anolis evermanni" ; Times: 1
+	Query: "Thamnophis elegans Nevada" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "anolis sheplani" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "anolis litoralis" ; Times: 1
+	Query: "Diadophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "anolis notopholis" ; Times: 1
+	Query: "anolis gundlachi" ; Times: 1
+	Query: "anolis monticola" ; Times: 1
+	Query: "anolis cupreus" ; Times: 1
+	Query: "Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anolis properus" ; Times: 1
+	Query: "anolis poncensis" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "Imantodes cenchoa" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Tribolonotus brongersmai" ; Times: 1
+	Query: "anolis compressicauda" ; Times: 1
+	Query: "anolis fasciatus" ; Times: 1
+	Query: "anolis vinosus" ; Times: 1
+	Query: "Anaxyrus canorus" ; Times: 1
+	Query: "Uromastyx tissue:1" ; Times: 1
+	Query: "Furcifer tissue:1" ; Times: 1
+	Query: "anolis parvauritus" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "varanus flavescens" ; Times: 1
+	Query: "anolis ventrimaculatus" ; Times: 1
+	Query: "anolis rimarum" ; Times: 1
+	Query: "anolis eugenegrahami" ; Times: 1
+	Query: "anolis cybotes" ; Times: 1
+	Query: "varanus nebulosus type:specimen" ; Times: 1
+	Query: "anolis poecilopus" ; Times: 1
+	Query: "anolis laeviventris" ; Times: 1
+	Query: "anolis porcatus" ; Times: 1
+	Query: "Clonophis" ; Times: 1
+	Query: "anolis dominicensis" ; Times: 1
+	Query: "specificepithet:dumasi institutioncode:AMNH" ; Times: 1
+	Query: "anolis limifrons" ; Times: 1
+	Query: "anolis planiceps" ; Times: 1
+	Query: "anolis vittigerus" ; Times: 1
+	Query: "genus:Leptopelis country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "anolis sminthus" ; Times: 1
+	Query: "anolis tigrinus" ; Times: 1
+	Query: "anolis sagrei" ; Times: 1
+	Query: "anolis whitemani" ; Times: 1
+	Query: "Agkistrodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "genus:Gonocephalus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "typhlops brongersmianus" ; Times: 1
+	Query: "anolis pentaprion" ; Times: 1
+	Query: "Varanus bengalensis bengalensis type:specimen" ; Times: 1
+	Query: "Phyllomedusa rohdei" ; Times: 1
+	Query: "Gonatodes type:specimen country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "Anolis" ; Times: 1
+	Query: "Hydrops triangularis" ; Times: 1
+	Query: "anolis longitibialis" ; Times: 1
+	Query: "Kinyongia tissue:1" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "Gymnophthalmus tissue:1" ; Times: 1
+	Query: "Phrynosoma mcallii" ; Times: 1
+	Query: "anolis macrolepis" ; Times: 1
+	Query: "anolis scypheus" ; Times: 1
+	Query: "anolis occultus" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "anolis taylori" ; Times: 1
+	Query: "anolis ignigularis" ; Times: 1
+	Query: "anolis marcanoi" ; Times: 1
+	Query: "anolis frenatus" ; Times: 1
+	Query: "anolis granuliceps" ; Times: 1
+	Query: "anolis semilineatus" ; Times: 2
+	Query: "type:specimen family:Hyperoliidae" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "scotobleps gabonicus" ; Times: 1
+	Query: "anolis websteri" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "anolis mestrei" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "anolis trachyderma" ; Times: 1
+	Query: "Pituophis catenifer" ; Times: 2
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "anolis bimaculatus" ; Times: 1
+	Query: "apalone mutica texas" ; Times: 1
+	Query: "anolis luteogularis" ; Times: 1
+	Query: "varanus rudicollis type:specimen" ; Times: 2
+	Query: "anolis festae" ; Times: 1
+	Query: "anolis krugi" ; Times: 1
+	Query: "anolis boettgeri" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 1
+	Query: "anolis loysianus" ; Times: 1
+	Query: "anolis cooki" ; Times: 1
+	Query: "specificepithet:cyanochloris genus:Celestus" ; Times: 1
+	Query: "family:Uropeltidae" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "anolis danieli" ; Times: 1
+	Query: "anolis sabanus" ; Times: 1
+	Query: "Phyllomedusa centralis" ; Times: 2
+	Query: "lithobates montezumae" ; Times: 1
+	Query: "anolis caudalis" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "county:&#34;Carroll&#34; stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "anolis oculatus" ; Times: 1
+	Query: "anolis haguei" ; Times: 1
+	Query: "anolis grahami" ; Times: 1
+	Query: "psychrophrynella usurpator" ; Times: 1
+	Query: "anolis serranoi" ; Times: 1
+	Query: "anolis pumilus" ; Times: 1
+	Query: "anolis casildae" ; Times: 2
+	Query: "anolis noblei" ; Times: 1
+	Query: "cercosaura tissue:1" ; Times: 1
+	Query: "anolis lucius" ; Times: 1
+	Query: "anolis equestris" ; Times: 1
+
+
+End of report.
