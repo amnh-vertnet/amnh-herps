@@ -1,0 +1,51 @@
+Report for Institution Code AMNH, Resource amnh_herps
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 3120
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-20 ; Times: 1
+	Date: 2016-10-24 ; Times: 6
+	Date: 2016-10-05 ; Times: 4
+	Date: 2016-10-19 ; Times: 4
+	Date: 2016-10-03 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Chiasmocleis shudikarensis " ; Times: 1
+	Query: "Incilius valliceps" ; Times: 2
+	Query: "Adelastes hylonomos " ; Times: 2
+	Query: "Stefania evansi " ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 2
+	Query: "Dendropsophus xapuriensis " ; Times: 1
+	Query: "Scinax staufferi" ; Times: 2
+	Query: "Allobates brunneus " ; Times: 1
+	Query: "Rhinella marina" ; Times: 1
+	Query: "Epicrionops petersi " ; Times: 1
+	Query: "Tlalocohyla picta" ; Times: 2
+	Query: "Allobates melanolaemus " ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 3
+	Query: "Pristimantis achuar " ; Times: 1
+	Query: "Phyllomedusa vaillantii " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
