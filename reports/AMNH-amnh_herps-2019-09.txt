@@ -1,0 +1,1060 @@
+Report for Institution Code AMNH, Resource amnh_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1536
+Number of records retrieved in searches: 35448
+Number of different countries where searches have been originated: 35
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 34
+	Country: Unknown ; Times: 29
+	Country: Panama ; Times: 1
+	Country: Nepal ; Times: 2
+	Country: Costa Rica ; Times: 3
+	Country: France ; Times: 9
+	Country: Bahamas ; Times: 2
+	Country: Slovakia ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 12
+	Country: Australia ; Times: 12
+	Country: Singapore ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 18
+	Country: Chile ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Philippines ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Turkey ; Times: 11
+	Country: Indonesia ; Times: 6
+	Country: United States ; Times: 1292
+	Country: Sweden ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Pakistan ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Mexico ; Times: 46
+	Country: India ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 19
+	Country: Colombia ; Times: 7
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 18
+	Date: 2019-09-15 ; Times: 22
+	Date: 2019-09-16 ; Times: 16
+	Date: 2019-09-17 ; Times: 89
+	Date: 2019-09-10 ; Times: 50
+	Date: 2019-09-11 ; Times: 48
+	Date: 2019-09-12 ; Times: 28
+	Date: 2019-09-13 ; Times: 30
+	Date: 2019-09-18 ; Times: 45
+	Date: 2019-09-19 ; Times: 103
+	Date: 2019-09-30 ; Times: 47
+	Date: 2019-09-09 ; Times: 42
+	Date: 2019-09-08 ; Times: 6
+	Date: 2019-09-03 ; Times: 218
+	Date: 2019-09-02 ; Times: 12
+	Date: 2019-09-01 ; Times: 9
+	Date: 2019-09-07 ; Times: 17
+	Date: 2019-09-06 ; Times: 52
+	Date: 2019-09-05 ; Times: 18
+	Date: 2019-09-04 ; Times: 158
+	Date: 2019-09-21 ; Times: 34
+	Date: 2019-09-20 ; Times: 149
+	Date: 2019-09-23 ; Times: 26
+	Date: 2019-09-22 ; Times: 39
+	Date: 2019-09-25 ; Times: 66
+	Date: 2019-09-24 ; Times: 34
+	Date: 2019-09-27 ; Times: 69
+	Date: 2019-09-26 ; Times: 29
+	Date: 2019-09-29 ; Times: 11
+	Date: 2019-09-28 ; Times: 51
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:118693 institutioncode:amnh" ; Times: 2
+	Query: "lithobates virgatipes maryland" ; Times: 1
+	Query: "specificepithet:plancyi genus:Pelophylax" ; Times: 1
+	Query: "arvalis Rana" ; Times: 1
+	Query: "specificepithet:barbouri genus:Pseudogonatodes institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:mitchellii genus:Crotalus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "genus:Ahaetulla country:&#34;India&#34;" ; Times: 1
+	Query: "catalognumber:35431 institutioncode:AMNH" ; Times: 2
+	Query: "Ophisaurus incomptus" ; Times: 1
+	Query: "Incilius valliceps specificepithet:valliceps genus:Incilius stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "emoia arnoensis" ; Times: 1
+	Query: "Bothrops pictus" ; Times: 2
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;Vermont&#34;" ; Times: 2
+	Query: "AMNH 131924" ; Times: 1
+	Query: "specificepithet:corticola genus:Sphaerodactylus institutioncode:AMNH" ; Times: 4
+	Query: "pyromelana pinal" ; Times: 1
+	Query: "Ingerophrynus parvus" ; Times: 1
+	Query: "Aplastodiscus albofrenatus" ; Times: 11
+	Query: "Pseudobufo subasper" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Surry&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amnh 35951" ; Times: 1
+	Query: "specificepithet:caicosensis genus:Sphaerodactylus institutioncode:AMNH" ; Times: 4
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "stateprovince:&#34;North Carolina&#34; Crotalus adamanteus" ; Times: 1
+	Query: "charazani" ; Times: 1
+	Query: "family:Viperidae country:&#34;Iran&#34;" ; Times: 1
+	Query: "specificepithet:randi genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "AMNH 109124" ; Times: 1
+	Query: "specificepithet:davisi genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "genus:Crotalus class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "amnh 11263" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "AMNH 109122" ; Times: 1
+	Query: "AMNH 109123" ; Times: 1
+	Query: "Dipsas viguieri" ; Times: 1
+	Query: "specificepithet:unctus genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "43180" ; Times: 1
+	Query: "Dendrolycus elapoides" ; Times: 2
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "AMNH 110107" ; Times: 1
+	Query: "bradypodion" ; Times: 2
+	Query: "institutioncode:AMNH catalognumber:178193" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:molei genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "genus:clemmys stateprovince:&#34;rhode island&#34;" ; Times: 1
+	Query: "genus:Salvadora class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Testudo horsfieldii" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:graptemys preparations:dry" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "Praescutata viperina" ; Times: 1
+	Query: "streckeri Pseudacris" ; Times: 6
+	Query: "135738" ; Times: 1
+	Query: "crucifer fairfax" ; Times: 1
+	Query: "class:Amphibia county:&#34;Calhoun&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Geagras" ; Times: 1
+	Query: "genus:Diadophis county:&#34;San Luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hydrophis semperi" ; Times: 2
+	Query: "Sphaerodactylus cochranae" ; Times: 3
+	Query: "187142" ; Times: 3
+	Query: "specificepithet:oxyrhinus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:richardsonii genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "genus:siren institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:parkeri genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "hemidactylus georgia" ; Times: 1
+	Query: "specificepithet:vincenti genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "genus:Masticophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:intermedius genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "bagrecito order:anura" ; Times: 1
+	Query: "124678" ; Times: 1
+	Query: "AMNH 131925" ; Times: 4
+	Query: "AMNH 24204" ; Times: 1
+	Query: "phyllodactylus colima" ; Times: 1
+	Query: "specificepithet:intermedius genus:Lepidoblepharis institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:rutteni genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:argus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 5
+	Query: "Nannophrys marmorata" ; Times: 2
+	Query: "Hydrophis mamillaris" ; Times: 1
+	Query: "Ingerophrynus divergens" ; Times: 1
+	Query: "genus:Apalone county:&#34;Llano&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:AMNH" ; Times: 5
+	Query: "Micrurus averyi" ; Times: 1
+	Query: "specificepithet:sabanus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "genus:Tropidoclonion stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:scorpioides genus:Kinosternon hastissue:1" ; Times: 1
+	Query: "Ingerophrynus quadriporcatus" ; Times: 1
+	Query: "Minyobates steyermarki" ; Times: 3
+	Query: "AMNH 116962" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "genus:Aneides specificepithet:niger" ; Times: 1
+	Query: "specificepithet:graeca genus:Rana" ; Times: 1
+	Query: "genus:Gastrotheca specificepithet:ovifera" ; Times: 1
+	Query: "specificepithet:millepunctatus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Marin&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Micrurus brasiliensis" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "catalognumber:69793 institutioncode:AMNH" ; Times: 4
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Burlington&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 2
+	Query: "Arthroleptis reichei" ; Times: 3
+	Query: "specificepithet:obsoleta genus:Elaphe county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "acris blanchardi michigan" ; Times: 1
+	Query: "specificepithet:cochranae genus:Aristelliger institutioncode:AMNH" ; Times: 6
+	Query: "specificepithet:sputator genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "&#34;1700&#34; &#34;humboldt&#34;" ; Times: 1
+	Query: "specificepithet:lunulatus genus:Pseudogonatodes institutioncode:AMNH" ; Times: 5
+	Query: "Hydromedusa maximiliani" ; Times: 2
+	Query: "Rana subaquavocalis" ; Times: 15
+	Query: "specificepithet:lineolatus genus:Sphaerodactylus AND (NOT molei)" ; Times: 1
+	Query: "catalognumber:15377 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:hoogmoedi genus:Lepidoblepharis institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:xanthostigma genus:Lepidoblepharis institutioncode:AMNH" ; Times: 5
+	Query: "crocodylus intermedius" ; Times: 1
+	Query: "specificepithet:difficilis genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "atelopus chiriquiensis" ; Times: 1
+	Query: "genus:Gambelia county:&#34;kern&#34;" ; Times: 1
+	Query: "specificepithet:ruwenzorica  genus:Rana" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana county:&#34;Marin&#34;" ; Times: 1
+	Query: "specificepithet:lar genus:Aristelliger institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "AMNH Herpetology R-12560" ; Times: 1
+	Query: "AMNH 99135" ; Times: 2
+	Query: "specificepithet:cryphius genus:Sphaerodactylus institutioncode:AMNH" ; Times: 4
+	Query: "145256" ; Times: 1
+	Query: "vntype:specimen catalognumber:114516 institutioncode:AMNH" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Prince George&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "noblella myrmecoides order:anura" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "furcifer pardalis" ; Times: 1
+	Query: "specificepithet:barkeri genus:Anolis" ; Times: 1
+	Query: "specificepithet:conspicillatus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:darlingtoni genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "Lithobates zweifeli" ; Times: 1
+	Query: "specificepithet:marianae genus:Osteopilus" ; Times: 1
+	Query: "specificepithet:homolepidurus genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "crepitans fairfax" ; Times: 1
+	Query: "specificepithet:moreletii genus:Crocodylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Calamaria hastissue:1" ; Times: 1
+	Query: "Hyloscirtus charazani" ; Times: 1
+	Query: "specificepithet:euknemos genus:Cochranella" ; Times: 1
+	Query: "Sistrurus Arizona" ; Times: 4
+	Query: "specificepithet:minusculus genus:Dendropsophus" ; Times: 1
+	Query: "Hydrodynastes" ; Times: 2
+	Query: "genus:Pituophis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "longicauda warren" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 4
+	Query: "catalognumber:104648 institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:ocellatus genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:klauberi genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "bungarus caeruleus" ; Times: 2
+	Query: "Micrurus putumayensis" ; Times: 1
+	Query: "specificepithet:tacanensis genus:Incilius" ; Times: 1
+	Query: "catalognumber:14722 institutioncode:AMNH" ; Times: 3
+	Query: "chrysopelea taprobanica" ; Times: 3
+	Query: "specificepithet:imitatrix  genus:Trachycephalus" ; Times: 1
+	Query: "gehyra colima" ; Times: 1
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "Crocodylus madagascar" ; Times: 6
+	Query: "AMNH 124964" ; Times: 1
+	Query: "varanus giganteus" ; Times: 1
+	Query: "specificepithet:clenchi genus:Sphaerodactylus institutioncode:AMNH" ; Times: 4
+	Query: "specificepithet:eunaster genus:Eleutherodactylus" ; Times: 1
+	Query: "genus:Phrynosoma class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "eleutherodactylus dennisi" ; Times: 2
+	Query: "specificepithet:compactilis family:bufonidae stateprovince:&#34;chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Dermophis Oaxaca" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "specificepithet:compactilis family:bufonidae stateprovince:&#34;michoacan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Dipsas incerta" ; Times: 1
+	Query: "AMNH 90088" ; Times: 3
+	Query: "sceloporus stafford" ; Times: 1
+	Query: "specificepithet:seigliei genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "Hypsiboas heilprini" ; Times: 1
+	Query: "specificepithet:antillensis genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "Crotalus Obscurus" ; Times: 13
+	Query: "AMNH 134054" ; Times: 1
+	Query: "Eleutherodactylus paulsoni" ; Times: 1
+	Query: "specificepithet:microtympanum genus:Rhacophorus" ; Times: 1
+	Query: "Trachemys hiltoni" ; Times: 7
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:brachystoma genus:Coleodactylus institutioncode:AMNH" ; Times: 5
+	Query: "Leiocephalus greenwayi" ; Times: 2
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "Calliophis gracilis" ; Times: 1
+	Query: "Chironius spixii" ; Times: 1
+	Query: "genus:Bolitoglossa specificepithet:borburata" ; Times: 1
+	Query: "anilius scytale" ; Times: 3
+	Query: "specificepithet:rapicauda genus:Thecadactylus institutioncode:AMNH" ; Times: 3
+	Query: "genus:Rhinella specificepithet:sternosignata" ; Times: 1
+	Query: "genus:Elgaria class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "specificepithet:mariguanae genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "27957" ; Times: 1
+	Query: "charazani order:anura" ; Times: 1
+	Query: "genus:Crotaphytus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:guianensis genus:Pseudogonatodes institutioncode:AMNH" ; Times: 5
+	Query: "genus:Trimorphodon county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT SDNHM)" ; Times: 1
+	Query: "specificepithet:trivirgata genus:Charina county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:162917 institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:constrictor genus:Boa stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rhinoderma darwinii" ; Times: 1
+	Query: "hemicordylus capensis" ; Times: 1
+	Query: "specificepithet:lyrophanes genus:Trimorphodon county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:whitii genus:Homonota institutioncode:AMNH" ; Times: 5
+	Query: "catalognumber:139017 institutioncode:amnh" ; Times: 2
+	Query: "order:Gymnophiona institutioncode:AMNH" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:aurita" ; Times: 1
+	Query: "clamitans fairfax" ; Times: 1
+	Query: "specificepithet:boylii genus:rana county:&#34;tulare&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "porthidium nasutum" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Nelsonophryne aterrima" ; Times: 1
+	Query: "catalognumber:119616 institutioncode:AMNH" ; Times: 2
+	Query: "Ansonia malayana" ; Times: 1
+	Query: "143747" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Amnh 35934" ; Times: 1
+	Query: "eleutherodactylus longipes" ; Times: 1
+	Query: "butleri waukesha" ; Times: 2
+	Query: "Drymobius rhombifer" ; Times: 2
+	Query: "AMNH 134573" ; Times: 2
+	Query: "catalognumber:162916 institutioncode:AMNH" ; Times: 2
+	Query: "specimen 187142" ; Times: 1
+	Query: "specificepithet:annularis genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:lineolatus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "genus:Xantusia class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "specificepithet:cascadae genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "AMNH 173598" ; Times: 2
+	Query: "143742" ; Times: 1
+	Query: "specificepithet:georgeensis genus:Aristelliger institutioncode:AMNH" ; Times: 11
+	Query: "Micrurus peruvianus" ; Times: 1
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "gekko institutioncode:amnh" ; Times: 7
+	Query: "catalognumber:36800 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Eremias pleskei" ; Times: 11
+	Query: "genus:gymnophthalmus country:&#34;Honduras&#34;" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "genus:Microbatrachella specificepithet:capensis" ; Times: 1
+	Query: "genus:Ecnomiohyla" ; Times: 7
+	Query: "Micrurus decoratus" ; Times: 1
+	Query: "Deirochelys reticularia stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "genus:Trimorphodon county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:martini genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:beattyi genus:Sphaerodactylus institutioncode:AMNH" ; Times: 4
+	Query: "specificepithet:homolepis genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:ornatus genus:Hylodes" ; Times: 2
+	Query: "specificepithet:zonata genus:Lampropeltis class:Reptilia county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Calhoun&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "specificepithet:copei genus:Sphaerodactylus institutioncode:AMNH" ; Times: 4
+	Query: "specificepithet:auratus genus:Phyllodytes" ; Times: 2
+	Query: "specificepithet:storeyae genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:hexalepis genus:Salvadora county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:ophisaurus institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 162541" ; Times: 2
+	Query: "stereochilus marginatus Virginia" ; Times: 1
+	Query: "specificepithet:compactilis family:Bufonidae stateprovince:&#34;zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:ophisaurus institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:pelodytoides genus:Leptolalax" ; Times: 1
+	Query: "specificepithet:kofordi genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "(Ouachita) institutioncode:AMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "AMNH 37797" ; Times: 1
+	Query: "specificepithet:ventralis genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "Dendrobates arboreus" ; Times: 1
+	Query: "country:Ecuador scientificname:Dendropsophus bokermanni " ; Times: 2
+	Query: "Micrurus margaritiferus" ; Times: 1
+	Query: "specificepithet:concinnatus genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "anolis sulcifrons" ; Times: 2
+	Query: "specificepithet:julieni genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Smyth&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "specificepithet:butleri genus:Thamnophis stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "catalognumber:80037 institutioncode:AMNH" ; Times: 2
+	Query: "Micrurus bernadi" ; Times: 1
+	Query: "&#34;farancia erytrogramma&#34; &#34;north carolina&#34;" ; Times: 2
+	Query: "specificepithet:inaguae genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:ceciliae genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:lineaticollis genus:Pituophis country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:phoxocephalus genus:Pristimantis" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "AMNH 35819" ; Times: 1
+	Query: "catalognumber:133628 institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Solano&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Micrurus diana" ; Times: 1
+	Query: "specificepithet:allenorum  genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Coleodactylus institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:lanthanites genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:gerrhopygus genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:vocator genus:Diasporus" ; Times: 1
+	Query: "genus:clemmys stateprovince:&#34;connecticut&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Osteocephalus fuscifacies " ; Times: 1
+	Query: "specificepithet:borellii genus:Homonota institutioncode:AMNH" ; Times: 5
+	Query: "catalognumber:126586 institutioncode:AMNH" ; Times: 2
+	Query: "noblella peruviana order:anura institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:samanensis genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "specificepithet:barbouri genus:Aristelliger institutioncode:AMNH" ; Times: 7
+	Query: "Agkistrodon taylori" ; Times: 3
+	Query: "genus:Salvadora county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:decurtatus genus:Phyllorhynchus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:scaber genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "Pristimantis euphronides" ; Times: 1
+	Query: "Hydrophis vorisi" ; Times: 1
+	Query: "specificepithet:leei genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "AMNH 58059" ; Times: 1
+	Query: "specificepithet:torrei genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "AMNH 116958" ; Times: 1
+	Query: "genus:Cerberus country:&#34;India&#34;" ; Times: 1
+	Query: "Eleutherodactylus poolei" ; Times: 2
+	Query: "specificepithet:buchwaldi genus:Lepidoblepharis institutioncode:AMNH" ; Times: 5
+	Query: "Chironius monticola" ; Times: 2
+	Query: "specificepithet:brevipollicatus genus:Dendrophryniscus" ; Times: 1
+	Query: "genus:Fejervarya specificepithet:multistriata" ; Times: 4
+	Query: "AMNH 150642" ; Times: 1
+	Query: "specificepithet:becki genus:Sphaerodactylus institutioncode:AMNH" ; Times: 4
+	Query: "Amnh 28846" ; Times: 1
+	Query: "specificepithet:lateralis genus:Masticophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Sphaerotheca" ; Times: 1
+	Query: "specificepithet:taniae genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "order:anura (guillei)" ; Times: 1
+	Query: "specificepithet:roosevelti genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "salvadora grahamiae Gila" ; Times: 1
+	Query: "Callopistes" ; Times: 1
+	Query: "AMNH 126679" ; Times: 2
+	Query: "specificepithet:americana genus:Tarentola institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "Hyloscirtus armatus" ; Times: 2
+	Query: "Micrurus bogerti" ; Times: 1
+	Query: "specificepithet:leberi genus:Eleutherodactylus" ; Times: 2
+	Query: "AMNH 134052" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Proctoporus pachyurus" ; Times: 2
+	Query: "Ditaxodon taeniatus" ; Times: 1
+	Query: "138118" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:alexandermendesi genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "Enhydrina zweifeli" ; Times: 1
+	Query: "genus:Micruroides stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:153840 institutioncode:amnh" ; Times: 2
+	Query: "specificepithet:resinifictrix genus:Trachycephalus" ; Times: 1
+	Query: "genus:Elgaria county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:sanctaemartae genus:Lepidoblepharis institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:streptophorus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "psychrophrynella" ; Times: 1
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:ruber genus:Crotalus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "AMNH 68115" ; Times: 1
+	Query: "genus:salvadora county:&#34;orange&#34;" ; Times: 1
+	Query: "genus:Allobates specificepithet:olfersioides" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Sphenomorphus muelleri" ; Times: 1
+	Query: "specificepithet:monensis genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:bordai genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "genus:Allophryne specificepithet:ruthveni" ; Times: 1
+	Query: "Osteolaemus institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:perpusillus genus:Scinax" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 10
+	Query: "specificepithet:hechti genus:Aristelliger institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Micrurus steindachneri" ; Times: 1
+	Query: "specificepithet:poecilogaster genus:Paratelmatobius" ; Times: 1
+	Query: "specificepithet:ruthveni genus:Lepidoblepharis institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "specificepithet:armstrongi genus:Sphaerodactylus institutioncode:AMNH" ; Times: 4
+	Query: "Hylarana montivaga" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Siskiyou&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "AMNH R-152280" ; Times: 1
+	Query: "Nannophrys" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 3
+	Query: "Eleutherodactylus nitidus" ; Times: 2
+	Query: "specificepithet:Megalodon country:&#34;mexico&#34;" ; Times: 3
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:AMNH" ; Times: 5
+	Query: "genus:Chionactis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "Laticauda crockeri" ; Times: 1
+	Query: "clemmys muhlenbergii Virginia" ; Times: 1
+	Query: "genus:Rhinocheilus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "AMNH 49161" ; Times: 1
+	Query: "specificepithet:lyrophanes genus:Trimorphodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:walkeri genus:Pristimantis" ; Times: 1
+	Query: "carphophis fairfax" ; Times: 1
+	Query: "specificepithet:tacanensis family:bufonidae" ; Times: 1
+	Query: "specificepithet:bicinctores genus:Crotaphytus county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Salvadora county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:parthenopion genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "Micrurus annellatus" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:caudiscutatus genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:guttata genus:clemmys stateprovince:&#34;connecticut&#34;" ; Times: 1
+	Query: "Lampropeltis floridana" ; Times: 1
+	Query: "67501" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "pristimantis prolatus" ; Times: 1
+	Query: "cochranella euknemos" ; Times: 2
+	Query: "trachemys hiltoni" ; Times: 1
+	Query: "specificepithet:humilis genus:Leptotyphlops county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:microphyllus genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:pentheter genus:Plectrohyla" ; Times: 1
+	Query: "specificepithet:guttolineata stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "AMNH 128012" ; Times: 2
+	Query: "Dibamus celebensis" ; Times: 1
+	Query: "hemidactylus turcicus georgia" ; Times: 1
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:elegantulus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "genus:Charina county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "deirochelys (texas)" ; Times: 1
+	Query: "specificepithet:quaquaversus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:ramsdeni genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "Sphaerotheca rolandae" ; Times: 2
+	Query: "country:Ecuador scientificname:Atelopus boulengeri " ; Times: 1
+	Query: "Ansonia penangensis" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Pulaski&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bolitoglossa schizodactyla" ; Times: 3
+	Query: "69308" ; Times: 1
+	Query: "genus:Philoria specificepithet:frosti" ; Times: 1
+	Query: "Ambystoma laterale stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "yunganastes order:anura" ; Times: 2
+	Query: "specificepithet:suwanniensis genus:Pseudemys" ; Times: 1
+	Query: "Crotalus morulus" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Page&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Spilotes pullatus " ; Times: 1
+	Query: "Anilius scytale" ; Times: 3
+	Query: "pluvicanorus order:anura" ; Times: 1
+	Query: "catalognumber:75250 institutioncode:amnh" ; Times: 2
+	Query: "anaxyrus californicus" ; Times: 1
+	Query: "specificepithet:altavelensis genus:Sphaerodactylus institutioncode:AMNH" ; Times: 5
+	Query: "Ingerophrynus macrotis" ; Times: 1
+	Query: "ablepharus grayanus" ; Times: 1
+	Query: "141412" ; Times: 1
+	Query: "specificepithet:nasuta genus:Ahaetulla country:&#34;India&#34;" ; Times: 1
+	Query: "Micrurus circinalis" ; Times: 1
+	Query: "136325" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "specificepithet:skydmainos genus:Pristimantis" ; Times: 1
+	Query: "indotestudo elongata" ; Times: 2
+	Query: "specificepithet:montanus genus:Craugastor" ; Times: 1
+	Query: "genus:Arizona class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "AMNH 131901" ; Times: 3
+	Query: "specificepithet:albofrenatus genus:Aplastodiscus" ; Times: 1
+	Query: "Ecnomiohyla" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Maine&#34;" ; Times: 2
+	Query: "specificepithet:hongkongensis genus:Amolops" ; Times: 1
+	Query: "138119" ; Times: 1
+	Query: "specificepithet:zeus genus:Eleutherodactylus" ; Times: 2
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 8
+	Query: "genus:thamnophis county:&#34;burnet&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Dasypops schirchi" ; Times: 1
+	Query: "genus:Salvadora class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "genus:Pristimantis specificepithet:savagei" ; Times: 1
+	Query: "genus:Trachemys county:&#34;jefferson&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Micrurus stewarti" ; Times: 1
+	Query: "specificepithet:nigropunctatus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "genus:Thecadactylus hastissue:1" ; Times: 2
+	Query: "Clonophis kirtlandii" ; Times: 2
+	Query: "specificepithet:macrotis genus:Ingerophrynus" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "Micrurus altirostris" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "genus:Chionactis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:duolepis genus:Lepidoblepharis institutioncode:AMNH" ; Times: 5
+	Query: "AMNH 35950" ; Times: 1
+	Query: "AMNH 35951" ; Times: 1
+	Query: "genus:Masticophis class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "Micrurus paraensis" ; Times: 1
+	Query: "specificepithet:compactilis family:Bufonidae stateprovince:&#34;aguascalientes&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "paleosuchus hastissue:1" ; Times: 1
+	Query: "genus:Rhacophorus specificepithet:bimaculatus" ; Times: 1
+	Query: "catalognumber:105366" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;James City&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:CHARINA county:&#34;lake&#34;" ; Times: 1
+	Query: "genus:Bombina specificepithet:maxima" ; Times: 1
+	Query: "Micrurus tschudii" ; Times: 1
+	Query: "specificepithet:lateralis genus:Masticophis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Montgomery&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Thamnophis class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "genus:Liopeltis frenatus" ; Times: 1
+	Query: "specificepithet:harti genus:ophisaurus institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:eques genus:Polypedates" ; Times: 1
+	Query: "Oophaga arborea" ; Times: 4
+	Query: "velox coconino" ; Times: 2
+	Query: "specificepithet:pulchra genus:Anniella county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "cryptobranchus Tennessee" ; Times: 1
+	Query: "specificepithet:fuscus genus:Pelobates" ; Times: 1
+	Query: "genus:Salvadora class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "Hydrophis pacificus" ; Times: 1
+	Query: "specificepithet:reissii genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "Micropechis ikaheka" ; Times: 1
+	Query: "specificepithet:fuscigula genus:Amietia" ; Times: 2
+	Query: "genus:Sceloporus class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "xenagama" ; Times: 1
+	Query: "genus:Xantusia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT VIGILIS)" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "genus:Nerodia county:&#34;burnet&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Cyclura cornuta" ; Times: 2
+	Query: "genus:Ichthyophis specificepithet:kohtaoensis" ; Times: 1
+	Query: "order:anura catalognumber:157028 institutioncode:AMNH" ; Times: 1
+	Query: "Micrurus diutius" ; Times: 1
+	Query: "Micrurus ibiboboca" ; Times: 1
+	Query: "specificepithet:multicarinata genus:Elgaria stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Platemys platycephala" ; Times: 4
+	Query: "AMNH 28846" ; Times: 1
+	Query: "specificepithet:uruguayensis genus:Homonota institutioncode:AMNH" ; Times: 5
+	Query: "genus:Xantusia class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:anura catalognumber:165109 institutioncode:AMNH" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:calcarata" ; Times: 1
+	Query: "Elaphe quatuorlineata sauromates" ; Times: 1
+	Query: "Cruziohyla calcarifer" ; Times: 1
+	Query: "specificepithet:torrentis genus:Amolops" ; Times: 1
+	Query: "specificepithet:nicholsi genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "genus:Pituophis county:&#34;Orange&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Scolecophis atrocinctus" ; Times: 1
+	Query: "AMNH 153293" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Acontias plumbeus" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Frederick&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Calamaria hastissue:1" ; Times: 1
+	Query: "specificepithet:arfaki genus:Hylarana" ; Times: 1
+	Query: "genus:thecadactylus hastissue:1" ; Times: 2
+	Query: "catalognumber:119190 institutioncode:AMNH" ; Times: 2
+	Query: "genus:Incilius specificepithet:macrocristatus" ; Times: 1
+	Query: "Micrurus baliocoryphus" ; Times: 2
+	Query: "specificepithet:gilberti genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "genus:Pituophis stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Nottoway&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phyllobates terribilis" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;Vermont&#34;" ; Times: 1
+	Query: "specificepithet:vittatus genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "genus:gymnophthalmus hastissue:1" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:&#34;Lampropeltis&#34; county:&#34;Carson&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:ricketti genus:Amolops" ; Times: 1
+	Query: "genus:Clonophis stateprovince:&#34;Indiana&#34; country:&#34;United states&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Micrurus proximans" ; Times: 1
+	Query: "sylvaticus fairfax" ; Times: 1
+	Query: "specificepithet:fantasticus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "Micrurus clarki" ; Times: 1
+	Query: "genus:Plethodon county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Elaphe sauromates" ; Times: 2
+	Query: "genus:Anniella class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "Hylarana margariana" ; Times: 1
+	Query: "Occidozyga semipalmata" ; Times: 1
+	Query: "specificepithet:asterulus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 4
+	Query: "Dendrelaphis gastrostictus" ; Times: 1
+	Query: "AMNH 124965" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Cryptobranchus stateprovince:&#34;Kentucky&#34;" ; Times: 5
+	Query: "gekko gecko institutioncode:amnh hastissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Southampton&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:141052 institutioncode:amnh" ; Times: 2
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "catalognumber:119189 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 39099" ; Times: 2
+	Query: "genus:Trimorphodon county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cophites genus:Bryophryne" ; Times: 1
+	Query: "AMNH 142303" ; Times: 2
+	Query: "AMNH 142302" ; Times: 2
+	Query: "AMNH 142304" ; Times: 2
+	Query: "AMNH 142307" ; Times: 2
+	Query: "AMNH calliophis gracilis" ; Times: 1
+	Query: "specificepithet:darwinii genus:Gymnodactylus institutioncode:AMNH" ; Times: 5
+	Query: "Willardi chihuahua" ; Times: 2
+	Query: "catalognumber:54512 institutioncode:AMNH" ; Times: 2
+	Query: "Amnh 35819" ; Times: 1
+	Query: "70455" ; Times: 1
+	Query: "170432" ; Times: 1
+	Query: "Helicops trivittatus" ; Times: 2
+	Query: "Micrurus remotus" ; Times: 1
+	Query: "Hyloxalus vergeli" ; Times: 1
+	Query: "Craugastor ranoides" ; Times: 3
+	Query: "amnh 119191" ; Times: 2
+	Query: "45812" ; Times: 1
+	Query: "genus:Uta class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT SDNHM)" ; Times: 1
+	Query: "141501" ; Times: 1
+	Query: "thamnophis butleri waukesha" ; Times: 3
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "187549" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Micrurus obscurus" ; Times: 1
+	Query: "specificepithet:underwoodi genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "Naja oxiana" ; Times: 1
+	Query: "genus:Xantusia county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "AMNH Herpetology R-12536" ; Times: 1
+	Query: "genus:masticophis county:&#34;burnet&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "AMNH 127687" ; Times: 2
+	Query: "genus:Platemys hastissue:1" ; Times: 1
+	Query: "specificepithet:armatus genus:Hyloscirtus" ; Times: 2
+	Query: "specificepithet:bimaculatus genus:Draco class:Reptilia" ; Times: 1
+	Query: "genus:Holbrookia stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "specificepithet:trivirgata genus:Charina county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Plectrohyla specificepithet:pycnochila" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "catalognumber:123184 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 12270" ; Times: 1
+	Query: "AMNH 28816" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "114704" ; Times: 1
+	Query: "Micrurus catamayensis" ; Times: 1
+	Query: "genus:Anniella county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:leprus" ; Times: 1
+	Query: "specificepithet:pollicaris genus:Phyllopezus institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:rivularis genus:Isthmohyla" ; Times: 1
+	Query: "specificepithet:rosaceum genus:Ambystoma stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:carinatus genus:Philothamnus country:&#34;Cameroon&#34;" ; Times: 1
+	Query: "Rhinella humboldti" ; Times: 1
+	Query: "genus:Duttaphrynus specificepithet:himalayanus" ; Times: 1
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:punctatus genus:Pelodytes" ; Times: 1
+	Query: "Dendrophidion paucicarinatum" ; Times: 1
+	Query: "waukesha thamnophis butleri" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Missouri&#34; institutioncode:AMNH" ; Times: 1
+	Query: "myrmecoides order:anura" ; Times: 1
+	Query: "&#34;Deirochelys reticularia&#34; &#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:epinephalus genus:Liophis" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "AMNH 99136" ; Times: 2
+	Query: "AMNH-124961" ; Times: 1
+	Query: "AMNH 48156" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma hastissue:1" ; Times: 1
+	Query: "specificepithet:greeri genus:Dibamus hastissue:1" ; Times: 1
+	Query: "bislineata stafford" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:baurii genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "AMNH 115504" ; Times: 2
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Ranitomeya specificepithet:imitator" ; Times: 2
+	Query: "115807" ; Times: 1
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:pulchrilineatus genus:Osteopilus" ; Times: 1
+	Query: "Deirochelys reticularia miaria" ; Times: 2
+	Query: "162261" ; Times: 2
+	Query: "145583" ; Times: 1
+	Query: "145585" ; Times: 1
+	Query: "Eleutherodactylus rufifemoralis" ; Times: 1
+	Query: "catalognumber:80036 institutioncode:AMNH" ; Times: 2
+	Query: "Sceloporus zosteromus" ; Times: 1
+	Query: "145589" ; Times: 1
+	Query: "genus:Sphaerotheca specificepithet:rolandae" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "genus:Boa stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "trachemys scripta hiltoni" ; Times: 3
+	Query: "specificepithet:heyerorum genus:Lepidoblepharis institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:festae genus:Lepidoblepharis institutioncode:AMNH" ; Times: 5
+	Query: "genus:Sistrurus county:&#34;parker&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:oliveri genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "genus:Helicops hastissue:1" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "vntype:specimen catalognumber:114519 institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 123302" ; Times: 2
+	Query: "genus:Sauromalus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "AMNH 77457" ; Times: 1
+	Query: "order:Anura catalognumber:96213" ; Times: 1
+	Query: "specificepithet:mutica genus:apalone stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:atricucullaris genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "catalognumber:123800 institutioncode:AMNH" ; Times: 2
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "AMNH 35885" ; Times: 1
+	Query: "AMNH 36800" ; Times: 1
+	Query: "specificepithet:proboscideus genus:Scinax" ; Times: 2
+	Query: "Micrurus sangilensis" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "specificepithet:hasemani genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "AMNH 141056" ; Times: 2
+	Query: "specificepithet:mutica genus:apalone stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "136319" ; Times: 1
+	Query: "Breviceps montanus" ; Times: 1
+	Query: "crotalus durissus colima" ; Times: 1
+	Query: "AMNH 76604" ; Times: 2
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:verrucosissimus genus:Bufo" ; Times: 1
+	Query: "liolaemus nigroviridis" ; Times: 1
+	Query: "191385" ; Times: 1
+	Query: "oligodon barroni vietnam" ; Times: 1
+	Query: "Adelphobates galactonotus" ; Times: 1
+	Query: "Dendrophidion percarinatum" ; Times: 1
+	Query: "Acalyptophis peronii" ; Times: 2
+	Query: "genus:Plethodon county:&#34;Addison&#34; stateprovince:&#34;Vermont&#34;" ; Times: 1
+	Query: "amnh 53317" ; Times: 1
+	Query: "genus:Hyla specificepithet:sarda" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:123970 institutioncode:amnh" ; Times: 2
+	Query: "Calamaria schlegeli Sumatra" ; Times: 6
+	Query: "Arthroleptis francei" ; Times: 4
+	Query: "scripta hiltoni" ; Times: 1
+	Query: "genus:Arizona class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;Cochise&#34;" ; Times: 1
+	Query: "specificepithet:goniorhynchus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:gargola genus:Alsodes" ; Times: 1
+	Query: "catalognumber:173633 institutioncode:AMNH" ; Times: 3
+	Query: "107488" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:amphisbaena country:&#34;suriname&#34;" ; Times: 1
+	Query: "Bokermannohyla alvarengai" ; Times: 1
+	Query: "genus:Arizona county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:montanus genus:Eleutherodactylus" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:eleutherodactylus genus:Cycloramphus" ; Times: 1
+	Query: "Tennessee lithobates" ; Times: 1
+	Query: "specificepithet:delcampoi genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:microlepis genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "genus:Pituophis stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "specificepithet:galapagensis genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "genus:Charina class:Reptilia county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Scaphiopus stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "catalognumber:65649 institutioncode:amnh" ; Times: 2
+	Query: "specificepithet:andersonii genus:Odorrana" ; Times: 2
+	Query: "genus:Hyloxalus specificepithet:vergeli" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "leptodactylus fragilis texas" ; Times: 2
+	Query: "specificepithet:microlepis genus:Lepidoblepharis institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:periosus genus:Phyllopezus institutioncode:AMNH" ; Times: 5
+	Query: "catalognumber:139068 institutioncode:amnh" ; Times: 2
+	Query: "county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34; (Crotaphytus bicinctores) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "genus:Dipsosaurus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Coleodactylus institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:hoehnei genus:Ischnocnema" ; Times: 1
+	Query: "catalognumber:124941 institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:cochranae genus:Sphaerodactylus institutioncode:AMNH" ; Times: 4
+	Query: "specificepithet:crucifer genus:Rhinella" ; Times: 1
+	Query: "catalognumber:159908 institutioncode:AMNH" ; Times: 2
+	Query: "eleutherodactylus colima" ; Times: 3
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Gehyra mutilata colima" ; Times: 1
+	Query: "specificepithet:angustidigitus genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "specificepithet:pulchra genus:Phrynella" ; Times: 1
+	Query: "specificepithet:argivus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 5
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "country:Ecuador scientificname:Drymarchon corais " ; Times: 3
+	Query: "scincella fairfax" ; Times: 3
+	Query: "ameiva undulata colima" ; Times: 1
+	Query: "specificepithet:johnwrighti genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "genus:CHARINA county:&#34;shasta&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Chionactis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:anura catalognumber:6066 institutioncode:AMNH" ; Times: 1
+	Query: "specificepithet:interandinus genus:Phyllodactylus institutioncode:AMNH" ; Times: 5
+	Query: "AMNH 11263" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "(clemmys guttata) hastissue:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Dakota&#34;" ; Times: 2
+	Query: "genus:Arizona county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:eleutherodactylus stateprovince:&#34;san luis potosi&#34;" ; Times: 1
+	Query: "specificepithet:glandulosus genus:Pristimantis" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:okinavana genus:Babina" ; Times: 1
+	Query: "AMNH 14722" ; Times: 1
+	Query: "AMNH 77105" ; Times: 2
+	Query: "catalognumber:107314 institutioncode:AMNH" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 5
+	Query: "Micrurus spurrelli" ; Times: 1
+	Query: "67424" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia institutioncode:AMNH" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:AMNH" ; Times: 3
+	Query: "specificepithet:feae genus:Brachytarsophrys" ; Times: 1
+	Query: "specificepithet:lessonae genus:Pelophylax" ; Times: 1
+	Query: "AMNH 134517" ; Times: 2
+	Query: "AMNH 89356" ; Times: 2
+	Query: "genus:Charadrahyla specificepithet:nephila" ; Times: 1
+	Query: "specificepithet:sumichrasti  genus:Exerodonta" ; Times: 1
+	Query: "Dasypeltis palmarum" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brunswick&#34; stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Alameda&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "52606" ; Times: 1
+	Query: "genus:Pituophis country:&#34;Canada&#34;" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 2
+	Query: "specificepithet:constrictor genus:Coluber country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "AMNH 27636" ; Times: 1
+	Query: "specificepithet:fasciata genus:Homonota institutioncode:AMNH" ; Times: 5
+	Query: "AMNH 142314" ; Times: 2
+	Query: "AMNH 142315" ; Times: 3
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:AMNH" ; Times: 5
+	Query: "Micrurus medemi" ; Times: 1
+	Query: "AMNH 142311" ; Times: 2
+	Query: "Okaloosa County pituophis" ; Times: 2
+	Query: "Bothrophthalmus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 132 (out of 1073 download events in this period)
+Total number of records downloaded: 12635
+Number of different countries: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Brunei ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Iran ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 6
+	Country: Panama ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 69
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 2
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 7
+	Date: 2019-09-17 ; Times: 5
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 15
+	Date: 2019-09-12 ; Times: 3
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-18 ; Times: 8
+	Date: 2019-09-19 ; Times: 7
+	Date: 2019-09-30 ; Times: 8
+	Date: 2019-09-09 ; Times: 4
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 7
+	Date: 2019-09-06 ; Times: 8
+	Date: 2019-09-05 ; Times: 3
+	Date: 2019-09-04 ; Times: 5
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-23 ; Times: 6
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 2
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-27 ; Times: 7
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-29 ; Times: 11
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "storeria dekayi virginia" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma hastissue:1" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:aspidoscelis hastissue:1" ; Times: 1
+	Query: "Dendrelaphis gastrostictus" ; Times: 1
+	Query: "genus:Sonora Texas" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Bothrops asper" ; Times: 1
+	Query: "hemicordylus capensis" ; Times: 1
+	Query: "deirochelys (texas)" ; Times: 1
+	Query: "specificepithet:inornata genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:xanthostigma genus:lepidoblepharis country:&#34;Panamá&#34;" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 2
+	Query: "order:Gymnophiona institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:boylii genus:rana county:&#34;tulare&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Hydrophis spiralis" ; Times: 1
+	Query: "Dendrophidion paucicarinatum" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 1
+	Query: "Ambystoma laterale stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "crotalus tzabcan" ; Times: 1
+	Query: "Dendrelaphis striolatus" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "&#34;Deirochelys reticularia&#34; &#34;North Carolina&#34;" ; Times: 1
+	Query: "Drymobius rhombifer" ; Times: 1
+	Query: "Aphaniotis" ; Times: 2
+	Query: "boa imperator" ; Times: 1
+	Query: "Amphibia Nebraska" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "specificepithet:serratus genus:Plethodon" ; Times: 1
+	Query: "cystignathoides texas" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+	Query: "Hydrophis semperi" ; Times: 1
+	Query: "Hydrophis melanocephalus" ; Times: 1
+	Query: "jaculus jaculus" ; Times: 1
+	Query: "genus:Helicops hastissue:1" ; Times: 1
+	Query: "graptemys caglei" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Chironius grandisquamis" ; Times: 1
+	Query: "specificepithet:butleri genus:Thamnophis stateprovince:&#34;Indiana&#34;" ; Times: 2
+	Query: "specificepithet:mutica genus:apalone stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:lineaticollis genus:Pituophis country:&#34;México&#34;" ; Times: 2
+	Query: "Masticophis flagellum hastissue:1" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "liolaemus nigroviridis" ; Times: 1
+	Query: "genus:dicamptodon county:&#34;marin&#34;" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "leptophis mexicanus" ; Times: 2
+	Query: "specificepithet:costata genus:aspidoscelis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Dendrophidion percarinatum" ; Times: 1
+	Query: "specificepithet:kohnii genus:graptemys" ; Times: 1
+	Query: "Meroles suborbitalis" ; Times: 1
+	Query: "Dipsas incerta" ; Times: 1
+	Query: "anilius scytale" ; Times: 2
+	Query: "genus:Plethodon county:&#34;Addison&#34; stateprovince:&#34;Vermont&#34;" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "sceloporus slevini" ; Times: 1
+	Query: "Hydrophis ornatus" ; Times: 1
+	Query: "Hydrophis pacificus" ; Times: 1
+	Query: "Lampropeltis (abnorma OR annulata OR elapsoides OR gentilis OR micropholis OR polyzona OR triangulum) hastissue:1" ; Times: 1
+	Query: "Dendrophidion dendrophis" ; Times: 1
+	Query: "Laticauda semifasciata" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "centrolene" ; Times: 2
+	Query: "Laticauda crockeri" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "Chironius monticola" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "genus:Aspidoscelis county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "celebensis" ; Times: 1
+	Query: "Sinomicrurus OR Calliophis OR Hemibungarus" ; Times: 1
+	Query: "Hydrophis torquatus" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "Lampropeltis (getula OR californiae OR holbrooki OR nigra OR splendida) hastissue:1" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "canorus" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "nelsoni (Bufo OR Anaxyrus)" ; Times: 2
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "coluber constrictor virginia" ; Times: 1
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "Diadophis punctatus hastissue:1" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "Scolecophis atrocinctus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Tantilla relicta" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "hemiophrys (Bufo OR Anaxyrus)" ; Times: 1
+	Query: "urosaurus bicarinatus" ; Times: 1
+	Query: "eurycea longicauda virginia" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "juquila" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Hylarana montivaga" ; Times: 4
+	Query: "class:Amphibia stateprovince:&#34;Missouri&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Eirenis" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 1
+	Query: "genus:Rhinophrynus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Crocodylus madagascar" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "Plethodon caddoensis" ; Times: 1
+	Query: "locustus" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Chironius laevicollis" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Bolitoglossa specificepithet:borburata" ; Times: 1
+	Query: "Acalyptophis peronii" ; Times: 1
+
+
+End of report.
