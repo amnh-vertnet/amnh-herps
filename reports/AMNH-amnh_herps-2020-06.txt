@@ -1,0 +1,630 @@
+Report for Institution Code AMNH, Resource amnh_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 647
+Number of records retrieved in searches: 7840
+Number of different countries where searches have been originated: 24
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Ireland ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 3
+	Country: France ; Times: 1
+	Country: Peru ; Times: 142
+	Country: Argentina ; Times: 7
+	Country: Australia ; Times: 18
+	Country: Singapore ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Puerto Rico ; Times: 3
+	Country: China ; Times: 4
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 307
+	Country: Sweden ; Times: 19
+	Country: Vietnam ; Times: 6
+	Country: Pakistan ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 98
+	Country: South Africa ; Times: 3
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 8
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-18 ; Times: 2
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-16 ; Times: 3
+	Date: 2020-06-11 ; Times: 9
+	Date: 2020-06-10 ; Times: 21
+	Date: 2020-06-12 ; Times: 2
+	Date: 2020-06-08 ; Times: 67
+	Date: 2020-06-27 ; Times: 3
+	Date: 2020-06-28 ; Times: 15
+	Date: 2020-06-07 ; Times: 31
+	Date: 2020-06-20 ; Times: 1
+	Date: 2020-06-21 ; Times: 1
+	Date: 2020-06-22 ; Times: 3
+	Date: 2020-06-23 ; Times: 12
+	Date: 2020-06-24 ; Times: 2
+	Date: 2020-06-25 ; Times: 10
+	Date: 2020-06-26 ; Times: 5
+	Date: 2020-06-09 ; Times: 52
+	Date: 2020-06-06 ; Times: 26
+	Date: 2020-06-29 ; Times: 13
+	Date: 2020-06-04 ; Times: 69
+	Date: 2020-06-05 ; Times: 66
+	Date: 2020-06-02 ; Times: 91
+	Date: 2020-06-03 ; Times: 92
+	Date: 2020-06-01 ; Times: 49
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Philautus specificepithet:aurifasciatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34; institutioncode:AMNH" ; Times: 6
+	Query: "scientificname:Typhlops naugus" ; Times: 1
+	Query: "specificepithet:sauritus genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Atlantico&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Philodryas country:&#34;Peru&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34; AND (NOT KU NOT MVZ NOT FMNH)" ; Times: 3
+	Query: "specificepithet:semicincta genus:Tantilla class:Reptilia country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "AMNH 56375" ; Times: 1
+	Query: "catalognumber:99457 institutioncode:AMNH" ; Times: 2
+	Query: "tantilla rubra" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Iguana iguana " ; Times: 2
+	Query: "genus:Ninia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Erythrolamprus country:&#34;Peru&#34;" ; Times: 1
+	Query: "amphiesma stolatum india" ; Times: 6
+	Query: "tantilla brevicauda" ; Times: 1
+	Query: "genus:bothrocophias country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:dendrophidion country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "AMNH 47200" ; Times: 2
+	Query: "genus:Rhadinaea stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:semicincta genus:Tantilla" ; Times: 3
+	Query: "AMNH 74056" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;La Guajira&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS) institutioncode:AMNH" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 18
+	Query: "genus:Oxybelis country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Liophis country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "AMNH 74054" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Livingston&#34; stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "AMNH 22730" ; Times: 1
+	Query: "genus:Petropedetes hastissue:1" ; Times: 1
+	Query: "boiga ceylonensis" ; Times: 1
+	Query: "AMNH 56563" ; Times: 1
+	Query: "AMNH 56560" ; Times: 1
+	Query: "AMNH 56561" ; Times: 1
+	Query: "AMNH 56566" ; Times: 1
+	Query: "AMNH 56567" ; Times: 1
+	Query: "AMNH 56564" ; Times: 1
+	Query: "AMNH 56565" ; Times: 2
+	Query: "AMNH 56568" ; Times: 1
+	Query: "AMNH 56569" ; Times: 1
+	Query: "AMNH 71095" ; Times: 1
+	Query: "AMNH 71094" ; Times: 2
+	Query: "catalognumber:67475 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 28444" ; Times: 1
+	Query: "AMNH 28445" ; Times: 1
+	Query: "Aspidoscelis opatae" ; Times: 3
+	Query: "AMNH 28447" ; Times: 1
+	Query: "AMNH 75280" ; Times: 2
+	Query: "AMNH 28441" ; Times: 1
+	Query: "AMNH 28442" ; Times: 1
+	Query: "AMNH 28443" ; Times: 1
+	Query: "AMNH 28448" ; Times: 1
+	Query: "AMNH 28449" ; Times: 2
+	Query: "genus:Mastigodryas class:Reptilia stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 1
+	Query: "catalognumber:144379" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Oakland&#34; stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "AMNH 132122" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34; AND (NOT CAS NOT FMNH NOT UMMZ NOT MCZ)" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 2
+	Query: "oophaga histrionica" ; Times: 5
+	Query: "country:Ecuador scientificname:Atelopus planispina " ; Times: 1
+	Query: "catalognumber:163045" ; Times: 1
+	Query: "country:Ecuador scientificname:Erythrolamprus guentheri " ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "genus:Paracontias hastissue:1" ; Times: 2
+	Query: "catalognumber:111799 institutioncode:AMNH" ; Times: 2
+	Query: "genus:Ninia country:&#34;Peru&#34;" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "AMNH 69935" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34; institutioncode:AMNH" ; Times: 2
+	Query: "genus:Barkudia" ; Times: 1
+	Query: "AMNH 141775" ; Times: 2
+	Query: "genus:Discoglossus specificepithet:galganoi" ; Times: 1
+	Query: "echis carinatus india" ; Times: 2
+	Query: "catalognumber:122181" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "genus:Opheodrys stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Oxybelis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis parvauritus " ; Times: 1
+	Query: "catalognumber: 135267" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "scientificname:dipsas vermiculata " ; Times: 1
+	Query: "genus:Storeria county:&#34;Pennington&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "specificepithet:fulviceps genus:Urotheca" ; Times: 1
+	Query: "oligodon arnensis india" ; Times: 2
+	Query: "catalognumber:173758" ; Times: 1
+	Query: "genus:Tripanurgos country:&#34;Peru&#34;" ; Times: 3
+	Query: "specificepithet:armillata genus:Tantilla country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:sexlineata genus:Aspidoscelis stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Philodryas country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "genus:Amolops specificepithet:torrentis" ; Times: 1
+	Query: "Emoia brongersmai" ; Times: 1
+	Query: "specificepithet:semicincta genus:Tantilla class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "lycodon travancoricus" ; Times: 1
+	Query: "AMNH 56579" ; Times: 1
+	Query: "Proctoporus bolivianus" ; Times: 1
+	Query: "gyrinophilus new jersey" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:calligaster genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Kassinula" ; Times: 1
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "AMNH 125107" ; Times: 1
+	Query: "genus:Helicops country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "genus:Cemophora county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Amapa&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "AMNH 56359" ; Times: 1
+	Query: "AMNH 56358" ; Times: 1
+	Query: "genus:sistrurus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:148251" ; Times: 1
+	Query: "AMNH 56351" ; Times: 1
+	Query: "country:Ecuador scientificname:Hyloxalus maculosus " ; Times: 1
+	Query: "AMNH 56353" ; Times: 1
+	Query: "AMNH 56352" ; Times: 1
+	Query: "AMNH 56355" ; Times: 1
+	Query: "genus:Micrurus class:Reptilia stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 1
+	Query: "AMNH 56357" ; Times: 1
+	Query: "AMNH 56356" ; Times: 1
+	Query: "AMNH 80434" ; Times: 1
+	Query: "genus:Mastigodryas country:&#34;Peru&#34;" ; Times: 3
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "specificepithet:dumerilii genus:Micrurus class:Reptilia stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34; institutioncode:AMNH" ; Times: 1
+	Query: "AMNH 74366" ; Times: 2
+	Query: "specificepithet:margaritiferus genus:Drymobius class:Reptilia country:&#34;Panama&#34;" ; Times: 1
+	Query: "AMNH 104278" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "triangulum stateprovince:&#34;Maryland&#34;" ; Times: 4
+	Query: "genus:elgaria country:&#34;canada&#34;" ; Times: 2
+	Query: "specificepithet:striatula genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Tantilla class:Reptilia stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "family:Dibamidae hastissue:1" ; Times: 1
+	Query: "catalognumber:175341" ; Times: 1
+	Query: "Lepidodactylus vanuatuensis" ; Times: 1
+	Query: "Lycodon multifasciatus" ; Times: 2
+	Query: "100399" ; Times: 2
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "AMNH 103740" ; Times: 1
+	Query: "Macropholidus ruthveni" ; Times: 2
+	Query: "Cercosaura bassleri" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Northampton&#34; stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:auratus genus:Anolis class:Reptilia stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "AMNH 32378" ; Times: 2
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:dendrophidion country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:marmoratus genus:desmognathus stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "AMNH 76327" ; Times: 2
+	Query: "AMNH 76328" ; Times: 2
+	Query: "Sphenomorphus taylori" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "AMNH 56571" ; Times: 1
+	Query: "AMNH 56570" ; Times: 1
+	Query: "AMNH 56574" ; Times: 1
+	Query: "AMNH 56576" ; Times: 1
+	Query: "catalognumber: 146659" ; Times: 1
+	Query: "AMNH 56578" ; Times: 1
+	Query: "AMNH 56363" ; Times: 1
+	Query: "AMNH 28459" ; Times: 1
+	Query: "AMNH 28458" ; Times: 1
+	Query: "country:Ecuador scientificname:Ninia atrata " ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "genus:Helicops country:&#34;Peru&#34;" ; Times: 1
+	Query: "AMNH 28452" ; Times: 1
+	Query: "AMNH 28451" ; Times: 1
+	Query: "AMNH 28450" ; Times: 1
+	Query: "AMNH 28457" ; Times: 1
+	Query: "AMNH 28456" ; Times: 1
+	Query: "AMNH 28455" ; Times: 1
+	Query: "AMNH 28454" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Duellmanohyla ignicolor" ; Times: 2
+	Query: "AMNH 56496" ; Times: 1
+	Query: "AMNH 56497" ; Times: 1
+	Query: "Cercosaura ocellata bassleri" ; Times: 1
+	Query: "AMNH 56495" ; Times: 1
+	Query: "AMNH 56498" ; Times: 1
+	Query: "genus:Drymarchon country:&#34;Ecuador&#34;" ; Times: 3
+	Query: "specificepithet:skiltonianus genus:Eumeces stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "AMNH 56317" ; Times: 1
+	Query: "AMNH 56316" ; Times: 1
+	Query: "AMNH 56313" ; Times: 1
+	Query: "AMNH 56312" ; Times: 1
+	Query: "AMNH 56319" ; Times: 1
+	Query: "AMNH 56318" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "tantilla moesta" ; Times: 1
+	Query: "AMNH 134430" ; Times: 2
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Caecilia nigricans" ; Times: 1
+	Query: "boiga trigonata" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Amphisbaena country:&#34;Perú&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Floyd&#34; stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:163114" ; Times: 1
+	Query: "Proctoporus pachyurus" ; Times: 2
+	Query: "AMNH 184799" ; Times: 1
+	Query: "Ramphotyphlops willeyi" ; Times: 2
+	Query: "catalognumber:168331" ; Times: 1
+	Query: "Phelsuma guentheri" ; Times: 1
+	Query: "genus:Crotalus class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "AMNH 59458" ; Times: 1
+	Query: "lycodon aulicus india" ; Times: 4
+	Query: "tantilla schistosa" ; Times: 1
+	Query: "arthrosaura reticulata" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Pike&#34; stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:rigida genus:Regina stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Synophis lasallei " ; Times: 2
+	Query: "catalognumber:174856" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:obsoleta genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Theloderma specificepithet:corticale" ; Times: 4
+	Query: "genus:Pseustes country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:occipitomaculata genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "ptyas mucosus india" ; Times: 2
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Sonora michoacanensis" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Peru&#34;" ; Times: 1
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "catalognumber: 152184" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "dendrelaphis tristis india" ; Times: 2
+	Query: "Heleophryne orientalis" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "AMNH 147654" ; Times: 1
+	Query: "genus:Thamnophis county:&#34;Mono&#34;" ; Times: 1
+	Query: "Hylarana erythraea vntype:specimen country:&#34;Philippines&#34;" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "tantilla taeniata" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis transversalis " ; Times: 1
+	Query: "AMNH 56580" ; Times: 1
+	Query: "AMNH 56581" ; Times: 1
+	Query: "AMNH 56582" ; Times: 1
+	Query: "AMNH 73795" ; Times: 1
+	Query: "genus:Paracontias" ; Times: 1
+	Query: "AMNH 28453" ; Times: 1
+	Query: "Exerodonta" ; Times: 2
+	Query: "Dermophis oaxacae" ; Times: 1
+	Query: "AMNH 66642" ; Times: 1
+	Query: "sistrurus county:&#34;trumbull&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:bizonus genus:Erythrolamprus class:Reptilia stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 1
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "country:Ecuador scientificname:Micrurus hemprichii " ; Times: 2
+	Query: "Anaxyrus nelsoni" ; Times: 2
+	Query: "AMNH 56368" ; Times: 1
+	Query: "AMNH 56369" ; Times: 1
+	Query: "AMNH 56364" ; Times: 1
+	Query: "AMNH 56365" ; Times: 1
+	Query: "AMNH 56366" ; Times: 1
+	Query: "AMNH 56367" ; Times: 1
+	Query: "AMNH 56360" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "AMNH 56362" ; Times: 1
+	Query: "catalognumber:163090" ; Times: 1
+	Query: "catalognumber:173950" ; Times: 1
+	Query: "country:Ecuador scientificname:Ninia hudsoni " ; Times: 1
+	Query: "tantilla bocourti" ; Times: 1
+	Query: "genus:Pseudoboa country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Leptophis country:&#34;Peru&#34;" ; Times: 4
+	Query: "AMNH 34600" ; Times: 1
+	Query: "100499" ; Times: 1
+	Query: "genus:Erythrolamprus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Dendropsophus meridianus" ; Times: 1
+	Query: "country:Ecuador scientificname:Atractus major " ; Times: 1
+	Query: "specificepithet:coerulea county:&#34;mono&#34;" ; Times: 4
+	Query: "class:Reptilia stateprovince:&#34;Bolivar&#34; country:&#34;Colombia&#34; institutioncode:AMNH" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "oedipina pa" ; Times: 1
+	Query: "AMNH 98312" ; Times: 2
+	Query: "specificepithet:rhombifer genus:Drymobius class:Reptilia country:&#34;Panama&#34;" ; Times: 2
+	Query: "Neusticurus bicarinatus" ; Times: 1
+	Query: "AMNH 73793" ; Times: 1
+	Query: "AMNH 28446" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Atelopus nepiozomus " ; Times: 1
+	Query: "catalognumber:25187 institutioncode:AMNH" ; Times: 2
+	Query: "AMNH 28440" ; Times: 1
+	Query: "specificepithet:sindanus genus:Bungarus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34; AND (NOT KU NOT MVZ NOT FMNH) institutioncode:AMNH" ; Times: 1
+	Query: "catalognumber:148194" ; Times: 1
+	Query: "93995" ; Times: 1
+	Query: "AMNH 73751" ; Times: 3
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "AMNH 157646" ; Times: 1
+	Query: "sistrurus new mexico" ; Times: 1
+	Query: "AMNH 56393" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Honduras&#34;" ; Times: 1
+	Query: "specificepithet:semicincta genus:Tantilla class:Reptilia" ; Times: 2
+	Query: "oedipina uniformis" ; Times: 1
+	Query: "specificepithet:hyoprora country:&#34;Peru&#34;" ; Times: 1
+	Query: "AMNH 56544" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Jackson&#34; stateprovince:&#34;Michigan&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ruficeps genus:Tantilla" ; Times: 1
+	Query: "Perochirus guentheri" ; Times: 1
+	Query: "genus:Tripanurgos country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Pseudoboa country:&#34;Peru&#34;" ; Times: 1
+	Query: "stilosoma" ; Times: 2
+	Query: "genus:Carphophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Leptophis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Drymarchon country:&#34;Peru&#34;" ; Times: 5
+	Query: "AMNH 157650" ; Times: 1
+	Query: "country:Ecuador scientificname:Platemys platycephala " ; Times: 1
+	Query: "genus:Crotalus county:&#34;Lehigh&#34; stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "AMNH 56350" ; Times: 1
+	Query: "catalognumber:163086" ; Times: 1
+	Query: "Amblycephalus niger" ; Times: 2
+	Query: "catalognumber:163087" ; Times: 1
+	Query: "AMNH 56322" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "AMNH 56326" ; Times: 1
+	Query: "AMNH 74055" ; Times: 1
+	Query: "country:Ecuador scientificname:Ptychoglossus brevifrontalis " ; Times: 3
+	Query: "AMNH 73792" ; Times: 1
+	Query: "coleonyx fasciatus" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "genus:Taeniophallus country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:margaritiferus genus:Drymobius class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "xenochrophis maculatus" ; Times: 1
+	Query: "genus:Tantilla class:Reptilia country:&#34;Venezuela&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 1
+	Query: "Emoia montana" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis county:&#34;Mono&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brown&#34; stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "AMNH 75276" ; Times: 1
+	Query: "AMNH 75273" ; Times: 1
+	Query: "oedipina sp" ; Times: 1
+	Query: "catalognumber:163103" ; Times: 1
+	Query: "catalognumber:163808 institutioncode:AMNH" ; Times: 1
+	Query: "genus:Mastigodryas country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Canal Zone&#34; country:&#34;Panama&#34; institutioncode:AMNH" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "country:&#34;Mexico&#34; Opheodrys" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "genus:chironius country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Ingerophrynus galeatus" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis peraccae " ; Times: 1
+	Query: "Euspondylus simonsii" ; Times: 2
+	Query: "kuangtungensis" ; Times: 1
+	Query: "AMNH 67815" ; Times: 1
+	Query: "catalognumber: 147946" ; Times: 1
+	Query: "Crotalus angelensis" ; Times: 1
+	Query: "AMNH 147651" ; Times: 1
+	Query: "AMNH 147652" ; Times: 1
+	Query: "AMNH 147653" ; Times: 1
+	Query: "catalognumber:168016" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:trimeresurus country:indonesia" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "genus:Triturus specificepithet:carnifex" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Pseustes country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:semicincta genus:Tantilla stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Duttaphrynus specificepithet:himalayanus" ; Times: 1
+	Query: "specificepithet:semicincta genus:Tantilla country:&#34;Colombia&#34;" ; Times: 1
+	Query: "catalognumber:76265 institutioncode:AMNH" ; Times: 1
+	Query: "Microlophus barringtonensis" ; Times: 1
+	Query: "Neusticurus ocellatus" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:178321" ; Times: 1
+	Query: "AMNH 116339" ; Times: 1
+	Query: "specificepithet:flagellicauda genus:aspidoscelis county:&#34;yavapai&#34;" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "Emoia rufilabialis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Atlantico&#34; country:&#34;Colombia&#34; institutioncode:AMNH" ; Times: 1
+	Query: "Emoia adspersa" ; Times: 1
+	Query: "AMNH 125129" ; Times: 1
+	Query: "AMNH 125122" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Amphisbaena country:&#34;Perú&#34;" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Breviceps hastissue:1" ; Times: 1
+	Query: "lycodon travancoricus india" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:AMNH" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34; AND (NOT CAS NOT FMNH NOT UMMZ NOT MCZ) institutioncode:AMNH" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinella marina " ; Times: 2
+	Query: "genus:Micrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "AMNH 56372" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis scypheus " ; Times: 1
+	Query: "AMNH 56374" ; Times: 1
+	Query: "AMNH 56379" ; Times: 1
+	Query: "AMNH 56378" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Bolivar&#34; country:&#34;Colombia&#34; AND (NOT PORTHIDIUM NOT MICRURUS)" ; Times: 2
+	Query: "AMNH R-41612" ; Times: 2
+	Query: "catalognumber:111800 institutioncode:AMNH" ; Times: 2
+	Query: "genus:Nessia" ; Times: 1
+	Query: "genus:Siphlophis country:&#34;Peru&#34;" ; Times: 2
+	Query: "nigra indiana" ; Times: 1
+	Query: "genus:elgaria county:&#34;mono&#34;" ; Times: 3
+	Query: "genus:Chamaesaura" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:cranwelli" ; Times: 3
+	Query: "AMNH 125113" ; Times: 1
+	Query: "hastissue:1 bothriechis" ; Times: 1
+	Query: "boiga trigonata india" ; Times: 2
+	Query: "Oklahoma cemophorA" ; Times: 8
+	Query: "country:Ecuador scientificname:Paleosuchus trigonatus " ; Times: 1
+	Query: "AMNH 28501" ; Times: 2
+	Query: "AMNH 98367" ; Times: 1
+	Query: "genus:Taeniophallus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Eleutherodactylus jasperi" ; Times: 3
+	Query: "AMNH 70597" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 6
+	Query: "country:Ecuador scientificname:Enyalioides praestabilis " ; Times: 1
+	Query: "AMNH 72038" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;Choco&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "AMNH 72036" ; Times: 1
+	Query: "AMNH 72037" ; Times: 1
+	Query: "ahaetulla nasuta india" ; Times: 2
+	Query: "AMNH 23215" ; Times: 1
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 2
+	Query: "AMNH 23212" ; Times: 2
+	Query: "genus:Tantilla class:Reptilia stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;La Guajira&#34; country:&#34;Colombia&#34;" ; Times: 5
+	Query: "AMNH 56559" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Indiana&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "AMNH 56552" ; Times: 1
+	Query: "AMNH 56551" ; Times: 1
+	Query: "AMNH 56557" ; Times: 1
+	Query: "genus:Synophis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "trimorphodon texas" ; Times: 1
+	Query: "genus:Charina county:&#34;Mono&#34;" ; Times: 1
+	Query: "AMNH 28439" ; Times: 1
+	Query: "AMNH 28438" ; Times: 1
+	Query: "AMNH 157645" ; Times: 1
+	Query: "catalognumber:120457 institutioncode:AMNH" ; Times: 2
+	Query: "catalognumber:95703 institutioncode:AMNH" ; Times: 1
+	Query: "Enhydris pakistanica" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "AMNH 157658" ; Times: 1
+	Query: "AMNH 56339" ; Times: 1
+	Query: "AMNH 56338" ; Times: 1
+	Query: "AMNH 56337" ; Times: 1
+	Query: "Crotalus lorenzoensis" ; Times: 1
+	Query: "genus:Voeltzkowia hastissue:1" ; Times: 5
+	Query: "Euspondylus maculatus" ; Times: 3
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Emoia lawesi" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis ortonii " ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "12575 AMNH" ; Times: 1
+	Query: "specificepithet:dixoni genus:Thamnodynastes" ; Times: 1
+	Query: "specificepithet:temminckii stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "specificepithet:dissoleucus genus:Micrurus class:Reptilia stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus abyssus" ; Times: 1
+	Query: "catalognumber:126793" ; Times: 1
+	Query: "AMNH 56348" ; Times: 1
+	Query: "AMNH 56349" ; Times: 1
+	Query: "AMNH 56342" ; Times: 1
+	Query: "AMNH 56340" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS) institutioncode:AMNH" ; Times: 6
+	Query: "AMNH 56346" ; Times: 1
+	Query: "AMNH 56347" ; Times: 1
+	Query: "AMNH 56344" ; Times: 1
+	Query: "AMNH 56345" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 474 download events in this period)
+Total number of records downloaded: 10017
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 16
+	Country: Chile ; Times: 4
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 17
+	Country: Peru ; Times: 13
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-22 ; Times: 3
+	Date: 2020-06-23 ; Times: 6
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-25 ; Times: 3
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-09 ; Times: 7
+	Date: 2020-06-07 ; Times: 7
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-02 ; Times: 11
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-01 ; Times: 6
+	Date: 2020-06-05 ; Times: 5
+	Date: 2020-06-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Desmognathus welteri" ; Times: 1
+	Query: "Emoia brongersmai" ; Times: 1
+	Query: "Emoia adspersa" ; Times: 1
+	Query: "specificepithet:w-nigrum genus:Pristimantis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Lepidodactylus vanuatuensis" ; Times: 1
+	Query: "genus:Helicops country:&#34;Peru&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "ameiva umbratilis" ; Times: 1
+	Query: "Neusticurus ecpleopus" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "Emoia lawesi" ; Times: 1
+	Query: "Pristimantis w-nigrum" ; Times: 1
+	Query: "Tiliqua nigrolutea" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:Eumeces stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Emoia schmidti" ; Times: 1
+	Query: "Macropholidus ruthveni" ; Times: 1
+	Query: "genus:Tripanurgos country:&#34;Peru&#34;" ; Times: 1
+	Query: "Emoia montana" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anaxyrus exsul" ; Times: 1
+	Query: "genus:Amphisbaena country:&#34;Perú&#34;" ; Times: 1
+	Query: "specificepithet:w-nigrum genus:Pristimantis country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Euspondylus maculatus" ; Times: 1
+	Query: "genus:Oxybelis country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Dipsas country:&#34;Peru&#34;" ; Times: 1
+	Query: "Cercosaura bassleri" ; Times: 1
+	Query: "Emoia samoensis" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Tolima&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Liophis country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Pseustes country:&#34;Peru&#34;" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "american alligator" ; Times: 2
+	Query: "Proctoporus bolivianus" ; Times: 2
+	Query: "Neusticurus ocellatus" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "Sphenomorphus taylori" ; Times: 2
+	Query: "genus:chironius country:&#34;Peru&#34;" ; Times: 1
+	Query: "Emoia mivarti" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "genus:Erythrolamprus country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Peru&#34;" ; Times: 1
+	Query: "Euspondylus simonsii" ; Times: 1
+	Query: "Cercosaura ocellata bassleri" ; Times: 1
+	Query: "Neusticurus bicarinatus" ; Times: 1
+	Query: "specificepithet:atrox country:&#34;Peru&#34;" ; Times: 1
+	Query: "Proctoporus pachyurus" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Emoia maculata" ; Times: 1
+	Query: "Crotalus lorenzoensis" ; Times: 1
+	Query: "Sphenomorphus brunneus" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Crotalus angelensis" ; Times: 1
+	Query: "Emoia rufilabialis" ; Times: 1
+
+
+End of report.
